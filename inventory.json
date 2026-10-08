@@ -1,6 +1,6 @@
 {
   "dealership": "Go Auto Brampton Chrysler",
-  "generated_at": "2026-10-07T19:44:18",
+  "generated_at": "2026-10-08T14:53:41",
   "vehicle_count": 544,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -20,7 +20,9 @@
       "year": 2019,
       "make": "RAM",
       "model": "1500 Classic SLT *5.7L HEMI*6 PASS*BACKUP CAM*DUAL ZONE CLIMATE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2019 Volkswagen Golf SportWagen Highline *MANUAL*4MOTION*PANO ROOF*HTD SEATS*",
@@ -37,7 +39,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Golf SportWagen Highline *MANUAL*4MOTION*PANO ROOF*HTD SEATS*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2020 Ford Edge SEL",
@@ -55,7 +59,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2021 Dodge Charger R/T DAYTONA *ACTIVE EXHAUST*PARK SENSE*DUAL ZN CLI",
@@ -72,7 +78,9 @@
       "year": 2021,
       "make": "Dodge",
       "model": "Charger R/T DAYTONA *ACTIVE EXHAUST*PARK SENSE*DUAL ZN CLI",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2021 RAM 1500 Sport *COLLSION WARN*BRAKE ASSIST*ALPINE AUDIO",
@@ -89,7 +97,9 @@
       "year": 2021,
       "make": "RAM",
       "model": "1500 Sport *COLLSION WARN*BRAKE ASSIST*ALPINE AUDIO",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2022 Jeep Grand Cherokee L Overland *HEMI V8*ACC*BLIND SPT*MCINTOSH AUDIO*",
@@ -106,7 +116,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Grand Cherokee L Overland *HEMI V8*ACC*BLIND SPT*MCINTOSH AUDIO*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2022 Jeep Grand Cherokee Summit Reserve *NIGHT VISION*ACC*HUD*PANO ROOF",
@@ -123,7 +135,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Grand Cherokee Summit Reserve *NIGHT VISION*ACC*HUD*PANO ROOF",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2022 Jeep Wagoneer 4WD Series III *7PASS*ACC*ALPINE AUDIO*PARK SENSE*",
@@ -140,7 +154,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Wagoneer 4WD Series III *7PASS*ACC*ALPINE AUDIO*PARK SENSE*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2022 Lexus IS Sedan IS 300 *SUNROOF*LANE ASSIST*HTD & VENT SEATS",
@@ -157,7 +173,9 @@
       "year": 2022,
       "make": "Lexus",
       "model": "IS Sedan IS 300 *SUNROOF*LANE ASSIST*HTD & VENT SEATS",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2022 Toyota Corolla Sedan LE",
@@ -175,7 +193,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2023 Dodge Durango GT Plus *BLIND SPT*WIRELSS CHRG*SUNROOF*NAVI",
@@ -192,7 +212,9 @@
       "year": 2023,
       "make": "Dodge",
       "model": "Durango GT Plus *BLIND SPT*WIRELSS CHRG*SUNROOF*NAVI",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2023 Jeep Grand Cherokee Altitude *ACC*LANE MNGMT*HTD SEATS*PROX ENTRY*",
@@ -209,7 +231,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Grand Cherokee Altitude *ACC*LANE MNGMT*HTD SEATS*PROX ENTRY*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2023 Jeep Wrangler 4xe ***4XE,  HTD SEATS, NAV***",
@@ -227,7 +251,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2023 Jeep Wrangler Sahara *DUAL ZONE CLIM*REMOTE STRT*HTD SEATS",
@@ -244,7 +270,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Wrangler Sahara *DUAL ZONE CLIM*REMOTE STRT*HTD SEATS",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2023 Jeep Wrangler Sahara *REMOTE STRT*HTD SEATS*ALPINE AUDIO*",
@@ -261,7 +289,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Wrangler Sahara *REMOTE STRT*HTD SEATS*ALPINE AUDIO*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2023 Jeep Wrangler High Altitude 4 Door 4x4 *BLIND SPT*ALPINE AUDIO*",
@@ -278,7 +308,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Wrangler High Altitude 4 Door 4x4 *BLIND SPT*ALPINE AUDIO*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2023 Jeep Wrangler Sahara *ALPINE AUDIO*KEYLESS ENTRY*HTD SEATS",
@@ -295,7 +327,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Wrangler Sahara *ALPINE AUDIO*KEYLESS ENTRY*HTD SEATS",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2023 Jeep Wrangler Rubicon*MANUAL*KEYLESS ENTRY*HTD STS*DUAL ZNE CLIM",
@@ -312,7 +346,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Wrangler Rubicon*MANUAL*KEYLESS ENTRY*HTD STS*DUAL ZNE CLIM",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2023 Land Rover Range Rover Evoque Evoque S *PANOROOF*BLIND SPT*NAVI*HTD SEATS*",
@@ -329,7 +365,9 @@
       "year": 2023,
       "make": "Land",
       "model": "Rover Range Rover Evoque Evoque S *PANOROOF*BLIND SPT*NAVI*HTD SEATS*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2023 Mercedes-Benz GLC Coupe GLC 300 *SUNROOF*BLIND SPT*AMBIENT LIGHT*HTD SEATS",
@@ -346,7 +384,9 @@
       "year": 2023,
       "make": "Mercedes-Benz",
       "model": "GLC Coupe GLC 300 *SUNROOF*BLIND SPT*AMBIENT LIGHT*HTD SEATS",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2023 Mercedes-Benz GLC GLC 300 *AMG PKG*PANOROOF*AMBIENT LIGHT*",
@@ -364,7 +404,9 @@
       "year": 2023,
       "make": "Mercedes-Benz",
       "model": "GLC",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2023 RAM 1500 Tradesman 4x4 Crew Cab*5.7L V8*Trailer Sway Ctrl",
@@ -382,7 +424,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2023 Toyota Corolla Hybrid Hybrid LE",
@@ -400,7 +444,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Corolla Hybrid Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2023 Toyota Corolla Sedan LE",
@@ -418,7 +464,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2024 Dodge Charger Daytona Scat Pack *STAGE 2*PANO ROOF*ACC*AMBIENT LIT*",
@@ -435,7 +483,9 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Charger Daytona Scat Pack *STAGE 2*PANO ROOF*ACC*AMBIENT LIT*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2024 Dodge Hornet R/T Plus*DEMO*Active Driving Asst*Sunroof*",
@@ -450,7 +500,9 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Hornet R/T Plus*DEMO*Active Driving Asst*Sunroof*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2024 Dodge Hornet R/T*DEMO*BlackTop Pkg*TrackPack*Activ Driving Asst",
@@ -465,7 +517,9 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Hornet R/T*DEMO*BlackTop Pkg*TrackPack*Activ Driving Asst",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2024 Dodge Hornet R/T*DEMO*BlackTop Pkg*Tech Pack*Activ Driving Asst",
@@ -480,7 +534,9 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Hornet R/T*DEMO*BlackTop Pkg*Tech Pack*Activ Driving Asst",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2024 Dodge Hornet R-T Plus PHEV EAWD*Red Leather*VENT SEATS*Sunroof*",
@@ -497,7 +553,9 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Hornet R-T Plus PHEV EAWD*Red Leather*VENT SEATS*Sunroof*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2024 Dodge Hornet R-T Plus PHEV EAWD*DEMO*Sunroof*HarmanKardon Audio",
@@ -514,7 +572,9 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Hornet R-T Plus PHEV EAWD*DEMO*Sunroof*HarmanKardon Audio",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2024 Ford Mustang Convertible EcoBoost Premium Convertible",
@@ -532,7 +592,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Mustang",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2024 Honda Accord Sedan EX *SUNROOF*ACC*LANE KEEP*BLIND SPOT*DUAL ZONE*",
@@ -549,7 +611,9 @@
       "year": 2024,
       "make": "Honda",
       "model": "Accord Sedan EX *SUNROOF*ACC*LANE KEEP*BLIND SPOT*DUAL ZONE*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2024 Jeep Compass Limited*WIRELESS CHRG*ACC*VENT SEATS*NAVI",
@@ -566,7 +630,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Compass Limited*WIRELESS CHRG*ACC*VENT SEATS*NAVI",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2024 Jeep Compass Limited *BLIND SPT*LANE KEEP*HTD STS*DUAL ZN CLIMA",
@@ -583,7 +649,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Compass Limited *BLIND SPT*LANE KEEP*HTD STS*DUAL ZN CLIMA",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2024 Jeep Grand Cherokee L Summit 4x4*High Altitude Pkg*7 Pass*Mcintosh Audio",
@@ -600,7 +668,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee L Summit 4x4*High Altitude Pkg*7 Pass*Mcintosh Audio",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2024 Jeep Grand Cherokee L Altitude 4x4*Sunroof*Heated Seats/Steering*",
@@ -618,7 +688,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2024 Jeep Wrangler 4xe Sahara",
@@ -636,7 +708,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2024 Jeep Wrangler Sahara *ACC*KEYLESS ENTRY*BLIND SPT*REMOTE STRT",
@@ -653,7 +727,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wrangler Sahara *ACC*KEYLESS ENTRY*BLIND SPT*REMOTE STRT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2024 Jeep Wrangler Sahara *ACC*KEYLESS ENTRY*BLIND SPT*REMOTE STRT",
@@ -670,7 +746,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wrangler Sahara *ACC*KEYLESS ENTRY*BLIND SPT*REMOTE STRT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2024 Mitsubishi Outlander SEL *7PASS*PANOROOF*WIRELESS CHRG*3 ZONE CLIMATE",
@@ -687,7 +765,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander SEL *7PASS*PANOROOF*WIRELESS CHRG*3 ZONE CLIMATE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2024 RAM 1500 Classic Warlock 4x4 Crew Cab*HEMI*Heated Seats/Wheel*",
@@ -705,7 +785,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2024 Volvo XC90 Plus Bright Theme",
@@ -723,7 +805,9 @@
       "year": 2024,
       "make": "Volvo",
       "model": "XC90",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 Dodge Durango GT Plus AWD*REDLINE PKG*ROOF*HARMAN/KARDON*",
@@ -741,7 +825,9 @@
       "year": 2025,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 Dodge Durango R/T *SUNROOF*WIRELESS CHRG*BLIND*NAVI*HTD SEATS",
@@ -758,7 +844,9 @@
       "year": 2025,
       "make": "Dodge",
       "model": "Durango R/T *SUNROOF*WIRELESS CHRG*BLIND*NAVI*HTD SEATS",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 Dodge Durango GT *BLIND SPT*HTD SEATS*PARK SENSE*PROX ENTRY",
@@ -775,7 +863,9 @@
       "year": 2025,
       "make": "Dodge",
       "model": "Durango GT *BLIND SPT*HTD SEATS*PARK SENSE*PROX ENTRY",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 Fiat 500e (RED) Edition *NAVI*PROX ENTRY*LANE KEEP*PRK SENSE",
@@ -792,7 +882,9 @@
       "year": 2025,
       "make": "Fiat",
       "model": "500e (RED) Edition *NAVI*PROX ENTRY*LANE KEEP*PRK SENSE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 Honda Civic Sedan LX",
@@ -810,7 +902,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 Honda HR-V LX",
@@ -828,7 +922,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 Hyundai Sonata N Line Ultimate*PANO ROOF*BOSE AUDIO*ACC*BLIND SPT",
@@ -845,7 +941,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Sonata N Line Ultimate*PANO ROOF*BOSE AUDIO*ACC*BLIND SPT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 Jeep Wrangler 4-Door Willys 4x4*Heated Seats*Alpine Audio*",
@@ -863,7 +961,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 Jeep Wrangler 4-Door Willys",
@@ -881,7 +981,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 Jeep Wrangler 4-Door Sahara*McKinely Trimmed Seats*",
@@ -899,7 +1001,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 Jeep Wrangler Willys 4x4",
@@ -917,7 +1021,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 Jeep Grand Cherokee Altitude",
@@ -934,7 +1040,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 MINI 3 Door Cooper C *WIRELESS CHRG*PARK SENSE*BLIND SPT",
@@ -951,7 +1059,9 @@
       "year": 2025,
       "make": "MINI",
       "model": "3 Door Cooper C *WIRELESS CHRG*PARK SENSE*BLIND SPT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 Mazda Mazda3 Sport GX",
@@ -969,7 +1079,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "Mazda3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 Mercedes-Benz CLA Coupe CLA 250 *NAVI*PANOROOF*3D CAM*BLIND SPT*",
@@ -987,7 +1099,9 @@
       "year": 2025,
       "make": "Mercedes-Benz",
       "model": "CLA",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 RAM 1500 Laramie",
@@ -1005,7 +1119,9 @@
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 RAM 1500 Rebel*PANOROOF*HUD*HARMAN/KARDON*DRIVE ASSIST*",
@@ -1022,7 +1138,9 @@
       "year": 2025,
       "make": "RAM",
       "model": "1500 Rebel*PANOROOF*HUD*HARMAN/KARDON*DRIVE ASSIST*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 RAM ProMaster Cargo Van 3500 High Roof Ext 159\" WB *3 SEATER*RADAR CRUISE",
@@ -1039,7 +1157,9 @@
       "year": 2025,
       "make": "RAM",
       "model": "ProMaster Cargo Van 3500 High Roof Ext 159\" WB *3 SEATER*RADAR CRUISE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 RAM ProMaster Cargo Van Tradesman 2500 High Roof 136  WB",
@@ -1057,7 +1177,9 @@
       "year": 2025,
       "make": "RAM",
       "model": "ProMaster",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 Volkswagen Atlas Highline*PANOROOF*7PAX*ACC*BLIND SPT*HARMAN/KARDON",
@@ -1074,7 +1196,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Atlas Highline*PANOROOF*7PAX*ACC*BLIND SPT*HARMAN/KARDON",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 Volkswagen Jetta Sedan Comfortline *ACC*KEYLESS ENTRY*LANE ASSIST*BLD SPT",
@@ -1091,7 +1215,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Jetta Sedan Comfortline *ACC*KEYLESS ENTRY*LANE ASSIST*BLD SPT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 Volkswagen Taos Highline *PANO ROOF*BLIND SPT*LANE KEEP*HTD SEATS*",
@@ -1108,7 +1234,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos Highline *PANO ROOF*BLIND SPT*LANE KEEP*HTD SEATS*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 Volkswagen Taos Comfortline",
@@ -1126,7 +1254,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 Volkswagen Taos Comfortline *LANE KEEP*BLIND SPT*DUAL ZONE*",
@@ -1143,7 +1273,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos Comfortline *LANE KEEP*BLIND SPT*DUAL ZONE*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2025 Volkswagen Taos Comfortline",
@@ -1161,7 +1293,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Audi A3 Sedan Quattro*SUNROOF*BLIND SPT*HTD SEATS*WIRELESS CRG",
@@ -1178,7 +1312,9 @@
       "year": 2026,
       "make": "Audi",
       "model": "A3 Sedan Quattro*SUNROOF*BLIND SPT*HTD SEATS*WIRELESS CRG",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Chrysler Grand Caravan SXT 2WD",
@@ -1195,7 +1331,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Chrysler Grand Caravan SXT 2WD",
@@ -1212,7 +1350,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Chrysler Grand Caravan SXT 2WD",
@@ -1229,7 +1369,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Chrysler Grand Caravan SXT",
@@ -1246,7 +1388,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Chrysler Grand Caravan SXT",
@@ -1263,7 +1407,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Chrysler Grand Caravan SXT",
@@ -1280,7 +1426,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Charger 2-Door Scat Pack",
@@ -1297,7 +1445,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Charger 4-Door R/T",
@@ -1314,7 +1464,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Charger 2-Door R/T",
@@ -1331,7 +1483,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Charger 4-Door R/T",
@@ -1348,7 +1502,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT  AWD*Blacktop Package*Heated seats/Steering*Nav",
@@ -1364,7 +1520,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango GT  AWD*Blacktop Package*Heated seats/Steering*Nav",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT AWD*BlackTop Package*Heated Seats/Steering*Nav",
@@ -1380,7 +1538,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango GT AWD*BlackTop Package*Heated Seats/Steering*Nav",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD*BlackTop Package*Leather*",
@@ -1396,7 +1556,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango GT HEMI V8 Plus AWD*BlackTop Package*Leather*",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango ",
@@ -1412,7 +1574,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -1429,7 +1593,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -1446,7 +1612,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1463,7 +1631,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -1480,7 +1650,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -1497,7 +1669,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1514,7 +1688,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1531,7 +1707,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1548,7 +1726,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1565,7 +1745,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1582,7 +1764,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -1599,7 +1783,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1616,7 +1802,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1633,7 +1821,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -1650,7 +1840,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1667,7 +1859,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1684,7 +1878,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1701,7 +1897,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1718,7 +1916,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1735,7 +1935,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1752,7 +1954,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1769,7 +1973,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1786,7 +1992,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1803,7 +2011,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1820,7 +2030,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1837,7 +2049,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1854,7 +2068,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1871,7 +2087,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1888,7 +2106,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1905,7 +2125,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1922,7 +2144,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -1939,7 +2163,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -1956,7 +2182,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -1973,7 +2201,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -1990,7 +2220,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Premium AWD",
@@ -2007,7 +2239,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2024,7 +2258,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2041,7 +2277,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2058,7 +2296,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2075,7 +2315,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2092,7 +2334,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2109,7 +2353,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2126,7 +2372,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2143,7 +2391,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2160,7 +2410,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2177,7 +2429,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Premium AWD",
@@ -2194,7 +2448,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Premium AWD",
@@ -2211,7 +2467,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2228,7 +2486,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2245,7 +2505,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT",
@@ -2262,7 +2524,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2279,7 +2543,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2296,7 +2562,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2313,7 +2581,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2330,7 +2600,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2347,7 +2619,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2364,7 +2638,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2381,7 +2657,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2398,7 +2676,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2415,7 +2695,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2432,7 +2714,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2449,7 +2733,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2466,7 +2752,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2483,7 +2771,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2500,7 +2790,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
@@ -2517,7 +2809,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
@@ -2534,7 +2828,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus",
@@ -2551,7 +2847,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus",
@@ -2568,7 +2866,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus",
@@ -2585,7 +2885,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus",
@@ -2602,7 +2904,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI Plus",
@@ -2619,7 +2923,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus",
@@ -2636,7 +2942,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus",
@@ -2653,7 +2961,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI Premium",
@@ -2670,7 +2980,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT HEMI Plus",
@@ -2687,7 +2999,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Dodge Durango GT Plus",
@@ -2704,7 +3018,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Honda CR-V Hybrid TrailSport *HYBRID*SUNROOF*WIRELESS CHRG*",
@@ -2721,7 +3037,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "CR-V Hybrid TrailSport *HYBRID*SUNROOF*WIRELESS CHRG*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Hyundai Venue Preferred *HTD SEATS*WIRELESS CHRG*KEYLESS ENTRY*",
@@ -2738,7 +3056,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue Preferred *HTD SEATS*WIRELESS CHRG*KEYLESS ENTRY*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Hyundai Venue Preferred *HTD SEATS*WIRELESS CHRG*KEYLESS ENTRY*",
@@ -2755,7 +3075,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue Preferred *HTD SEATS*WIRELESS CHRG*KEYLESS ENTRY*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Overland *NAVI*ACC*BLIND SPT*HTD & VENT SEATS*",
@@ -2772,7 +3094,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee Overland *NAVI*ACC*BLIND SPT*HTD & VENT SEATS*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Compass Limited *PANOROOF*ACC*HTD SEATS*APLINE AUDIO*",
@@ -2789,7 +3113,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass Limited *PANOROOF*ACC*HTD SEATS*APLINE AUDIO*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Compass Limited",
@@ -2807,7 +3133,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Compass Limited *ACC*BLIND SPT*PARK SENSE*PROX ENTRY*",
@@ -2824,7 +3152,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass Limited *ACC*BLIND SPT*PARK SENSE*PROX ENTRY*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Compass Limited *PANOROOF*ACC*HTD SEATS*NAVI*BLIND SPT*",
@@ -2841,7 +3171,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass Limited *PANOROOF*ACC*HTD SEATS*NAVI*BLIND SPT*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Wrangler Sahara *HTD SEATS*BLIND SPT*ACC*PARK SENSE*",
@@ -2858,7 +3190,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler Sahara *HTD SEATS*BLIND SPT*ACC*PARK SENSE*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Wrangler Rubicon X *ACC*NAVI*BRAKE ASSIST*PROX ENTRY*",
@@ -2875,7 +3209,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler Rubicon X *ACC*NAVI*BRAKE ASSIST*PROX ENTRY*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo 4x4*1.6L I-4 EP TurboHybrid*Heated Steering",
@@ -2891,7 +3227,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee Laredo 4x4*1.6L I-4 EP TurboHybrid*Heated Steering",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Limited 4x4",
@@ -2908,7 +3246,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Limited 4x4",
@@ -2925,7 +3265,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo 4x4",
@@ -2942,7 +3284,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee 85th Anniversary 4x4",
@@ -2959,7 +3303,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee 85th Anniversary 4x4",
@@ -2976,7 +3322,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo 4x4",
@@ -2993,7 +3341,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo 4x4",
@@ -3010,7 +3360,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Overland 4x4",
@@ -3027,7 +3379,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Overland 4x4",
@@ -3044,7 +3398,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo 4x4",
@@ -3061,7 +3417,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Limited 4x4",
@@ -3078,7 +3436,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee 85th Anniversary 4x4",
@@ -3095,7 +3455,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee 85th Anniversary 4x4",
@@ -3112,7 +3474,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Limited 4x4",
@@ -3129,7 +3493,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Limited 4x4",
@@ -3146,7 +3512,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Overland 4x4",
@@ -3163,7 +3531,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Overland 4x4",
@@ -3180,7 +3550,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Limited 4x4",
@@ -3197,7 +3569,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo 4x4",
@@ -3214,7 +3588,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo 4x4",
@@ -3231,7 +3607,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo 4x4",
@@ -3248,7 +3626,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo 4x4",
@@ -3265,7 +3645,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo 4x4",
@@ -3282,7 +3664,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo 4x4",
@@ -3299,7 +3683,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo 4x4",
@@ -3316,7 +3702,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo 4x4",
@@ -3333,7 +3721,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Overland 4x4",
@@ -3350,7 +3740,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Overland 4x4",
@@ -3367,7 +3759,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Limited 4x4",
@@ -3384,7 +3778,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Overland 4x4",
@@ -3400,7 +3796,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo",
@@ -3417,7 +3815,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo",
@@ -3434,7 +3834,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo",
@@ -3451,7 +3853,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo",
@@ -3468,7 +3872,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo",
@@ -3485,7 +3891,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Limited",
@@ -3502,7 +3910,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo",
@@ -3520,7 +3930,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo",
@@ -3537,7 +3949,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee 85th Anniversary Edition",
@@ -3554,7 +3968,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Overland",
@@ -3571,7 +3987,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee 85th Anniversary Edition",
@@ -3588,7 +4006,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee 85th Anniversary Edition",
@@ -3605,7 +4025,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee 85th Anniversary Edition",
@@ -3622,7 +4044,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee 85th Anniversary Edition",
@@ -3639,7 +4063,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo",
@@ -3656,7 +4082,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Limited",
@@ -3673,7 +4101,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo",
@@ -3690,7 +4120,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee Laredo",
@@ -3707,7 +4139,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee 85th Anniversary Edition",
@@ -3724,7 +4158,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Cherokee 4x4",
@@ -3740,7 +4176,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee 4x4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Compass Altitude*Active Lane Mgt*Blind Spot Mntr*Htd Seats",
@@ -3756,7 +4194,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass Altitude*Active Lane Mgt*Blind Spot Mntr*Htd Seats",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Compass North 4x4",
@@ -3773,7 +4213,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Compass North 4x4",
@@ -3790,7 +4232,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Compass North 4x4",
@@ -3807,7 +4251,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Compass Limited",
@@ -3824,7 +4270,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -3841,7 +4289,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -3858,7 +4308,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -3875,7 +4327,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -3892,7 +4346,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -3909,7 +4365,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Compass Trailhawk",
@@ -3926,7 +4384,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Compass Altitude",
@@ -3943,7 +4403,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Compass Altitude",
@@ -3960,7 +4422,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Compass Altitude",
@@ -3977,7 +4441,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Compass Altitude",
@@ -3994,7 +4460,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Compass Limited",
@@ -4011,7 +4479,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Gladiator NightHawk 4x4",
@@ -4028,7 +4498,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Gladiator Willys",
@@ -4045,7 +4517,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Gladiator Willys",
@@ -4062,7 +4536,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Gladiator Sport S",
@@ -4079,7 +4555,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Gladiator Willys",
@@ -4096,7 +4574,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee L 85th Anniversary 4x4",
@@ -4113,7 +4593,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee L 85th Anniversary 4x4",
@@ -4130,7 +4612,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee L 85th Anniversary 4x4",
@@ -4147,7 +4631,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee L 85th Anniversary 4x4",
@@ -4164,7 +4650,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee L 85th Anniversary 4x4",
@@ -4181,7 +4669,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee L 85th Anniversary 4x4",
@@ -4198,7 +4688,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee L 85th Anniversary 4x4",
@@ -4215,7 +4707,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee L 85th Anniversary 4x4",
@@ -4232,7 +4726,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee L 85th Anniversary 4x4",
@@ -4249,7 +4745,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee L 85th Anniversary 4x4",
@@ -4266,7 +4764,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee L Laredo X",
@@ -4283,7 +4783,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee L Altitude",
@@ -4300,7 +4802,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee Limited 4x4",
@@ -4317,7 +4821,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee Altitude 4x4",
@@ -4334,7 +4840,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee Altitude 4x4",
@@ -4351,7 +4859,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee 85th Anniversary 4x4",
@@ -4368,7 +4878,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee Limited 4x4",
@@ -4385,7 +4897,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee Limited",
@@ -4402,7 +4916,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee Altitude",
@@ -4419,7 +4935,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee Laredo X",
@@ -4436,7 +4954,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee Laredo X",
@@ -4453,7 +4973,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee Altitude",
@@ -4470,7 +4992,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee Altitude",
@@ -4487,7 +5011,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Cherokee Limited",
@@ -4504,7 +5030,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Wagoneer 85th Anniversary Edition",
@@ -4521,7 +5049,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Wagoneer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Grand Wagoneer 85th Anniversary Edition",
@@ -4538,7 +5068,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Wagoneer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Wrangler Sport S 4 Door 4x4",
@@ -4555,7 +5087,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Wrangler 85th Anniversary 4 Door 4x4",
@@ -4572,7 +5106,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Wrangler 85th Anniversary 4 Door 4x4",
@@ -4589,7 +5125,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Wrangler Willys 4 Door 4x4",
@@ -4606,7 +5144,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Wrangler Sahara 4 Door 4x4",
@@ -4623,7 +5163,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Wrangler Sahara 4 Door 4x4",
@@ -4640,7 +5182,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Wrangler Sahara 4 Door 4x4",
@@ -4657,7 +5201,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Wrangler Sahara 4 Door 4x4",
@@ -4674,7 +5220,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Wrangler Sahara 4 Door 4x4",
@@ -4691,7 +5239,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Wrangler Sahara 4 Door 4x4",
@@ -4708,7 +5258,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Wrangler Willys 392 4 Door 4x4",
@@ -4725,7 +5277,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Wrangler 4-Door Sahara",
@@ -4742,7 +5296,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Wrangler 4-Door Sahara",
@@ -4759,7 +5315,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Wrangler 4-Door Sahara",
@@ -4776,7 +5334,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Jeep Wrangler 4-Door Sahara",
@@ -4793,7 +5353,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Mercedes-Benz GLA GLA 250 *SUNROOF*BURMESTER AUDIO*BLIND SPT",
@@ -4810,7 +5372,9 @@
       "year": 2026,
       "make": "Mercedes-Benz",
       "model": "GLA GLA 250 *SUNROOF*BURMESTER AUDIO*BLIND SPT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Mercedes-Benz GLC *** GLC300 PANO ROOF, 19\" WHEELS, LEATHER SEATS***",
@@ -4827,7 +5391,9 @@
       "year": 2026,
       "make": "Mercedes-Benz",
       "model": "GLC *** GLC300 PANO ROOF, 19\" WHEELS, LEATHER SEATS***",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport Crew Cab 4x4*3.0L I-6*Sport Hood*Pano Roof*",
@@ -4844,7 +5410,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport Crew Cab 4x4*3.0L I-6 Twin Turbo*Pano Roof*",
@@ -4861,7 +5429,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 BLACK EXPRESS*LUXURY INTERIOR*ADVANCED SAFETY*STEP",
@@ -4877,7 +5447,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500 BLACK EXPRESS*LUXURY INTERIOR*ADVANCED SAFETY*STEP",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport Crew Cab 4x4*3.0L I-6 Hurricane*Pano Roof",
@@ -4894,7 +5466,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 BLACK EXPRESS*LUXURY INTERIOR*ADVANCED SAFETY*STEP",
@@ -4910,7 +5484,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500 BLACK EXPRESS*LUXURY INTERIOR*ADVANCED SAFETY*STEP",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -4926,7 +5502,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -4942,7 +5520,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Express 4x4 Quad Cab 6'4  Box",
@@ -4959,7 +5539,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -4976,7 +5558,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Express 4x4 Quad Cab 6'4  Box",
@@ -4993,7 +5577,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 RHO 4x4 Crew Cab 5'7  Box",
@@ -5010,7 +5596,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -5027,7 +5615,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Express 4x4 Quad Cab 6'4  Box",
@@ -5044,7 +5634,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -5061,7 +5653,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -5078,7 +5672,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -5095,7 +5691,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 *DIRECT CONNECTION 650 SUPERCHARGED HEMI*",
@@ -5111,7 +5709,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500 *DIRECT CONNECTION 650 SUPERCHARGED HEMI*",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -5128,7 +5728,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -5145,7 +5747,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -5162,7 +5766,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5179,7 +5785,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5196,7 +5804,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5213,7 +5823,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 RHO 4x4 Crew Cab 5'7  Box",
@@ -5230,7 +5842,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 RHO 4x4 Crew Cab 5'7  Box",
@@ -5247,7 +5861,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 RHO 4x4 Crew Cab 5'7  Box",
@@ -5264,7 +5880,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 RHO 4x4 Crew Cab 5'7  Box",
@@ -5281,7 +5899,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 RHO 4x4 Crew Cab 5'7  Box",
@@ -5298,7 +5918,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5315,7 +5937,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5332,7 +5956,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Tungsten 4x4 Crew Cab 5'7  Box",
@@ -5349,7 +5975,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -5366,7 +5994,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Tungsten 4x4 Crew Cab 5'7  Box",
@@ -5383,7 +6013,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Tungsten 4x4 Crew Cab 5'7  Box",
@@ -5400,7 +6032,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5417,7 +6051,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -5434,7 +6070,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -5450,7 +6088,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -5467,7 +6107,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -5484,7 +6126,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -5501,7 +6145,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5518,7 +6164,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -5535,7 +6183,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -5552,7 +6202,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5569,7 +6221,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5586,7 +6240,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5603,7 +6259,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5620,7 +6278,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5637,7 +6297,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5654,7 +6316,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5671,7 +6335,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5688,7 +6354,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5705,7 +6373,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5722,7 +6392,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5739,7 +6411,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5756,7 +6430,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5773,7 +6449,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -5790,7 +6468,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5807,7 +6487,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5824,7 +6506,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5841,7 +6525,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5858,7 +6544,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5875,7 +6563,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5892,7 +6582,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -5909,7 +6601,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Tungsten 4x4 Crew Cab 5'7  Box",
@@ -5926,7 +6620,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Tungsten 4x4 Crew Cab 5'7  Box",
@@ -5943,7 +6639,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Tungsten 4x4 Crew Cab 5'7  Box",
@@ -5960,7 +6658,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Tungsten 4x4 Crew Cab 5'7  Box",
@@ -5977,7 +6677,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -5994,7 +6696,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Express 4x4 Crew Cab 5'7  Box",
@@ -6011,7 +6715,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6028,7 +6734,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -6045,7 +6753,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Limited 4x4 Crew Cab 5'7  Box",
@@ -6062,7 +6772,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6079,7 +6791,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6096,7 +6810,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Express 4x4 Crew Cab 5'7  Box",
@@ -6113,7 +6829,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -6130,7 +6848,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6147,7 +6867,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -6164,7 +6886,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6181,7 +6905,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -6197,7 +6923,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6214,7 +6942,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -6231,7 +6961,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6248,7 +6980,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6265,7 +6999,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -6281,7 +7017,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Express 4x4 Crew Cab 5'7  Box",
@@ -6298,7 +7036,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -6315,7 +7055,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -6331,7 +7073,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -6348,7 +7092,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -6365,7 +7111,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -6382,7 +7130,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6399,7 +7149,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6416,7 +7168,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Limited 4x4 Crew Cab 5'7  Box",
@@ -6433,7 +7187,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Limited 4x4 Crew Cab 5'7  Box",
@@ -6450,7 +7206,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Limited 4x4 Crew Cab 5'7  Box",
@@ -6467,7 +7225,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6484,7 +7244,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Limited 4x4 Crew Cab 5'7  Box",
@@ -6501,7 +7263,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6518,7 +7282,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6535,7 +7301,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6552,7 +7320,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Limited 4x4 Crew Cab 5'7  Box",
@@ -6569,7 +7339,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Limited 4x4 Crew Cab 5'7  Box",
@@ -6586,7 +7358,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6603,7 +7377,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6620,7 +7396,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Limited 4x4 Crew Cab 5'7  Box",
@@ -6637,7 +7415,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6654,7 +7434,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -6671,7 +7453,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -6688,7 +7472,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -6705,7 +7491,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -6722,7 +7510,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -6739,7 +7529,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6756,7 +7548,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6773,7 +7567,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6790,7 +7586,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6807,7 +7605,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6824,7 +7624,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6841,7 +7643,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6858,7 +7662,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6875,7 +7681,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6892,7 +7700,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6909,7 +7719,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6926,7 +7738,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6943,7 +7757,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -6960,7 +7776,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -6977,7 +7795,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -6994,7 +7814,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -7010,7 +7832,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -7026,7 +7850,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -7042,7 +7868,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -7059,7 +7887,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -7076,7 +7906,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -7093,7 +7925,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -7110,7 +7944,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
@@ -7127,7 +7963,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Black Express",
@@ -7144,7 +7982,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Black Express",
@@ -7161,7 +8001,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Black Express",
@@ -7178,7 +8020,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 RHO",
@@ -7195,7 +8039,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport",
@@ -7212,7 +8058,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Black Express",
@@ -7229,7 +8077,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Black Express",
@@ -7246,7 +8096,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Black Express",
@@ -7263,7 +8115,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel",
@@ -7280,7 +8134,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel",
@@ -7297,7 +8153,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Black Express",
@@ -7314,7 +8172,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel",
@@ -7331,7 +8191,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Black Express",
@@ -7348,7 +8210,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Black Express",
@@ -7365,7 +8229,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Rebel",
@@ -7382,7 +8248,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport",
@@ -7399,7 +8267,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport",
@@ -7416,7 +8286,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Black Express",
@@ -7433,7 +8305,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Black Express",
@@ -7450,7 +8324,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport",
@@ -7467,7 +8343,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Laramie",
@@ -7484,7 +8362,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Sport",
@@ -7501,7 +8381,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 1500 Warlock",
@@ -7518,7 +8400,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 2500 6.7L Cummins Diesel*10 YR OR 160000 KM Warranty",
@@ -7534,7 +8418,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "2500 6.7L Cummins Diesel*10 YR OR 160000 KM Warranty",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 2500 Tradesman 4x4 Crew Cab*6.7L Cummins Diesel*",
@@ -7551,7 +8437,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 2500 Rebel 4x4 Crew Cab 6'4  Box",
@@ -7568,7 +8456,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 2500 Black Express 4x4 Crew Cab 6'4  Box",
@@ -7585,7 +8475,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 2500 Limited",
@@ -7602,7 +8494,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 2500 Big Horn",
@@ -7619,7 +8513,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM 3500 Big Horn",
@@ -7636,7 +8532,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM ProMaster Cargo Van High Roof 159 in. WB",
@@ -7652,7 +8550,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "ProMaster",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 RAM ProMaster Cargo Van High Roof Extended 159 in. WB",
@@ -7669,7 +8569,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "ProMaster",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Volkswagen Jetta Sedan Comfortline *BLIND SPT*LANE ASSIST*FRONT ASSIST",
@@ -7686,7 +8588,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta Sedan Comfortline *BLIND SPT*LANE ASSIST*FRONT ASSIST",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Volkswagen Taos Trendline *BLIND SPT*FRONT ASSIST*HTD SEATS*",
@@ -7703,7 +8607,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos Trendline *BLIND SPT*FRONT ASSIST*HTD SEATS*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline *AMBIENT LIGHT*LANE KEEP*BLIND SPT*",
@@ -7720,7 +8626,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan Comfortline *AMBIENT LIGHT*LANE KEEP*BLIND SPT*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition *PANO ROOF*ACC*",
@@ -7737,7 +8645,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan Comfortline R-Line Black Edition *PANO ROOF*ACC*",
-      "condition": "used"
+      "condition": "used",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select FWD",
@@ -7754,7 +8664,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select FWD",
@@ -7771,7 +8683,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select FWD",
@@ -7788,7 +8702,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select",
@@ -7805,7 +8721,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select AWD",
@@ -7822,7 +8740,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select AWD",
@@ -7839,7 +8759,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select",
@@ -7856,7 +8778,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select",
@@ -7873,7 +8797,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select",
@@ -7890,7 +8816,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select",
@@ -7907,7 +8835,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select",
@@ -7924,7 +8854,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select",
@@ -7941,7 +8873,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select",
@@ -7958,7 +8892,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select",
@@ -7975,7 +8911,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select",
@@ -7992,7 +8930,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select",
@@ -8009,7 +8949,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select",
@@ -8026,7 +8968,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select",
@@ -8043,7 +8987,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select",
@@ -8059,7 +9005,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select",
@@ -8075,7 +9023,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select AWD",
@@ -8091,7 +9041,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Chrysler Pacifica Select AWD",
@@ -8107,7 +9059,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Dodge Durango GT Plus AWD",
@@ -8124,7 +9078,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Dodge Durango GT Plus",
@@ -8141,7 +9097,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Dodge Durango GT Plus",
@@ -8158,7 +9116,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Dodge Durango GT Plus",
@@ -8175,7 +9135,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Dodge Durango GT Plus",
@@ -8192,7 +9154,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Dodge Durango GT Plus AWD",
@@ -8208,7 +9172,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Dodge Durango GT Plus AWD",
@@ -8224,7 +9190,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Dodge Durango GT Plus AWD",
@@ -8240,7 +9208,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Jeep Grand Cherokee Limited",
@@ -8256,7 +9226,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Jeep Grand Cherokee Limited",
@@ -8272,7 +9244,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Jeep Grand Cherokee Limited",
@@ -8288,7 +9262,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Jeep Wrangler Sahara 4 Door 4x4",
@@ -8305,7 +9281,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Jeep Wrangler Sahara 4 Door 4x4",
@@ -8322,7 +9300,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Jeep Wrangler Sahara 4 Door 4x4",
@@ -8339,7 +9319,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Jeep Wrangler Sahara 4 Door 4x4",
@@ -8355,7 +9337,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Jeep Wrangler 4-Door Willys",
@@ -8372,7 +9356,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Jeep Wrangler 4-Door Sahara",
@@ -8389,7 +9375,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Jeep Wrangler 4-Door Sahara",
@@ -8406,7 +9394,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Jeep Wrangler Willys",
@@ -8423,7 +9413,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Jeep Wrangler 4-Door Sahara",
@@ -8440,7 +9432,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Jeep Wrangler 4-Door Willys",
@@ -8456,7 +9450,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 Jeep Wrangler 4-Door Sahara",
@@ -8472,7 +9468,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Express 4x4 Crew Cab 5'7  Box",
@@ -8488,7 +9486,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Express 4x4 Crew Cab 5'7  Box",
@@ -8504,7 +9504,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Express 4x4 Crew Cab 5'7  Box",
@@ -8520,7 +9522,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Express 4x4 Crew Cab 5'7  Box",
@@ -8536,7 +9540,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Express 4x4 Crew Cab 5'7  Box",
@@ -8552,7 +9558,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Express 4x4 Crew Cab 5'7  Box",
@@ -8568,7 +9576,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Express 4x4 Crew Cab 5'7  Box",
@@ -8584,7 +9594,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Express 4x4 Crew Cab 5'7  Box",
@@ -8600,7 +9612,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Express 4x4 Crew Cab 5'7  Box",
@@ -8616,7 +9630,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 TRX 4x4 Crew Cab 5'7  Box",
@@ -8632,7 +9648,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Express 4x4 Crew Cab 5'7  Box",
@@ -8648,7 +9666,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Express 4x4 Crew Cab 5'7  Box",
@@ -8664,7 +9684,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 TRX 4x4 Crew Cab 5'7  Box",
@@ -8680,7 +9702,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Express 4x4 Crew Cab 5'7  Box",
@@ -8696,7 +9720,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -8712,7 +9738,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Rebel",
@@ -8729,7 +9757,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Rebel",
@@ -8746,7 +9776,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Rebel",
@@ -8764,7 +9796,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Rebel",
@@ -8781,7 +9815,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Rebel",
@@ -8798,7 +9834,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Express",
@@ -8815,7 +9853,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Rebel",
@@ -8832,7 +9872,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Tungsten",
@@ -8849,7 +9891,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Rebel",
@@ -8866,7 +9910,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Rebel",
@@ -8884,7 +9930,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Sport",
@@ -8901,7 +9949,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Rebel",
@@ -8918,7 +9968,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Big Horn",
@@ -8935,7 +9987,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Big Horn",
@@ -8951,7 +10005,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Rebel",
@@ -8968,7 +10024,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Laramie",
@@ -8984,7 +10042,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 RHO",
@@ -9001,7 +10061,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Rebel",
@@ -9017,7 +10079,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Laramie",
@@ -9033,7 +10097,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Big Horn",
@@ -9049,7 +10115,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Big Horn",
@@ -9065,7 +10133,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Big Horn",
@@ -9081,7 +10151,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Big Horn",
@@ -9097,7 +10169,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Big Horn",
@@ -9113,7 +10187,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Sport",
@@ -9129,7 +10205,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
@@ -9145,7 +10223,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 2500 Rebel",
@@ -9162,7 +10242,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 2500 Warlock",
@@ -9179,7 +10261,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM 2500 Big Horn",
@@ -9196,7 +10280,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     },
     {
       "name": "2027 RAM ProMaster 2500 High Roof 159 in. WB",
@@ -9212,7 +10298,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "ProMaster",
-      "condition": "new"
+      "condition": "new",
+      "city": "Brampton",
+      "province": "ON"
     }
   ]
 }
