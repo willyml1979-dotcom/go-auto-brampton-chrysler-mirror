@@ -1,7 +1,7 @@
 {
   "dealership": "Go Auto Brampton Chrysler",
-  "generated_at": "2026-10-26T06:10:43",
-  "vehicle_count": 545,
+  "generated_at": "2026-10-26T06:30:02",
+  "vehicle_count": 544,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -806,17 +806,6 @@
       "name": "2026 Chrysler Grand Caravan SXT 2WD",
       "vin": "2C4RC1ZGXTR285790",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/d4682fa8203d.html",
-      "year": 2026,
-      "make": "Chrysler",
-      "model": "Grand Caravan",
-      "condition": "new",
-      "price": 46090.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chrysler Grand Caravan SXT 2WD",
-      "vin": "2C4RC1ZG3TR285792",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/75171d06bbad.html",
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravan",
