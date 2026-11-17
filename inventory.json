@@ -1,52 +1,41 @@
 {
   "dealership": "Go Auto Brampton Chrysler",
-  "generated_at": "2026-10-26T06:30:02",
-  "vehicle_count": 544,
+  "generated_at": "2026-11-17T04:19:25",
+  "vehicle_count": 551,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2020 Ford Edge SEL",
-      "vin": "2FMPK4J91LBB45169",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/279a36bfbd63.html",
-      "year": 2020,
-      "make": "Ford",
-      "model": "Edge",
+      "name": "2017 Nissan Sentra SV *ALLOY WHEELS*HTD SEATS*CRUISE CONTROL*",
+      "vin": "3N1AB7AP6HL661469",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/cb60afbc4b10.html",
+      "year": 2017,
+      "make": "Nissan",
+      "model": "Sentra SV *ALLOY WHEELS*HTD SEATS*CRUISE CONTROL*",
       "condition": "used",
-      "price": 17988.0,
+      "price": 10588.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Honda CR-V LX",
-      "vin": "2HKRW2H21LH221184",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/4b9a0dcc9002.html",
-      "year": 2020,
-      "make": "Honda",
-      "model": "CR-V",
+      "name": "2019 RAM 1500 HEMI, SXT Appearance group",
+      "vin": "1C6SRFGT3KN834150",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/50a781c84b2f.html",
+      "year": 2019,
+      "make": "RAM",
+      "model": "1500",
       "condition": "used",
-      "price": 23788.0,
+      "price": 23588.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Jeep Grand Cherokee Limited X",
-      "vin": "1C4RJFBG8LC436129",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/6b53685eabed.html",
-      "year": 2020,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 25788.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Mercedes-Benz C-Class Sedan C 300",
+      "name": "2020 Mercedes-Benz C-Class Sedan C 300 *NAVI*HEATED STS*DUAL ZONE CLIMATE*",
       "vin": "55SWF8EB0LU334017",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/1111ea09a39d.html",
       "year": 2020,
       "make": "Mercedes-Benz",
-      "model": "C-Class",
+      "model": "C-Class Sedan C 300 *NAVI*HEATED STS*DUAL ZONE CLIMATE*",
       "condition": "used",
-      "price": 19588.0,
+      "price": 19088.0,
       "price_currency": "CAD"
     },
     {
@@ -61,25 +50,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Dodge Durango GT",
-      "vin": "1C4RDJDG0MC763083",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/84bb2c6a25dc.html",
+      "name": "2021 Jeep Cherokee Trailhawk Elite *NAVI*BLND SPT*ACC*LANE KEEP*",
+      "vin": "1C4PJMBX8MD125341",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/eca86033173a.html",
       "year": 2021,
-      "make": "Dodge",
-      "model": "Durango",
+      "make": "Jeep",
+      "model": "Cherokee Trailhawk Elite *NAVI*BLND SPT*ACC*LANE KEEP*",
       "condition": "used",
-      "price": 32288.0,
+      "price": 21188.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021 RAM 1500 Sport *COLLSION WARN*BRAKE ASSIST*ALPINE AUDIO",
-      "vin": "1C6SRFVT5MN637020",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/e33f7f1c59f5.html",
+      "name": "2021 RAM 1500 Classic Crew Cab Warlock *PROX ENTRY*NAVI*PARK SENSE*",
+      "vin": "1C6RR7LGXMS593169",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/5c1c96017f3e.html",
       "year": 2021,
       "make": "RAM",
-      "model": "1500 Sport *COLLSION WARN*BRAKE ASSIST*ALPINE AUDIO",
+      "model": "1500 Classic",
       "condition": "used",
-      "price": 38988.0,
+      "price": 29188.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Toyota RAV4 XLE *SUNROOF*BLIND SPT*LANE KEEP*ACC",
+      "vin": "2T3R1RFV2MW184810",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/78f94945239e.html",
+      "year": 2021,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "used",
+      "price": 31888.0,
       "price_currency": "CAD"
     },
     {
@@ -94,36 +94,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Dodge Durango R/T Plus *TOW-N-GO*SUNROOF*VENTED SEATS*NAVI*",
-      "vin": "1C4SDJCT9NC204343",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/a1249fffad68.html",
+      "name": "2022 Honda HR-V Touring *SUNROOF*HTD SEATS*ACC*LANE KEEP*",
+      "vin": "3CZRU6H99NM100646",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/ff4ba9f60d02.html",
       "year": 2022,
-      "make": "Dodge",
-      "model": "Durango R/T Plus *TOW-N-GO*SUNROOF*VENTED SEATS*NAVI*",
+      "make": "Honda",
+      "model": "HR-V Touring *SUNROOF*HTD SEATS*ACC*LANE KEEP*",
       "condition": "used",
-      "price": 43888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Jeep Grand Cherokee L Overland *HEMI V8*ACC*BLIND SPT*MCINTOSH AUDIO*",
-      "vin": "1C4RJKDT0N8522737",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/91d1259699c1.html",
-      "year": 2022,
-      "make": "Jeep",
-      "model": "Grand Cherokee L Overland *HEMI V8*ACC*BLIND SPT*MCINTOSH AUDIO*",
-      "condition": "used",
-      "price": 44588.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Jeep Grand Cherokee Summit Reserve *NIGHT VISION*ACC*HUD*PANO ROOF",
-      "vin": "1C4RJHEG3N8599249",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/8485e23c0c33.html",
-      "year": 2022,
-      "make": "Jeep",
-      "model": "Grand Cherokee Summit Reserve *NIGHT VISION*ACC*HUD*PANO ROOF",
-      "condition": "used",
-      "price": 45388.0,
+      "price": 29588.0,
       "price_currency": "CAD"
     },
     {
@@ -135,39 +113,6 @@
       "model": "Wagoneer 4WD Series III *7PASS*ACC*ALPINE AUDIO*PARK SENSE*",
       "condition": "used",
       "price": 50688.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Dodge Challenger GT *NAVI*SUNROOF*VENT SEATS*PROX ENTRY*",
-      "vin": "2C3CDZKG9PH543986",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/45d8c7237b0c.html",
-      "year": 2023,
-      "make": "Dodge",
-      "model": "Challenger",
-      "condition": "used",
-      "price": 43588.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Honda Accord Hybrid Touring Hybrid *SUNROOF*WIRELESS CHRG*BOSE*ACC*",
-      "vin": "1HGCY2F88PA800548",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/335cbbd36d53.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "Accord Hybrid Touring Hybrid *SUNROOF*WIRELESS CHRG*BOSE*ACC*",
-      "condition": "used",
-      "price": 34188.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Hyundai Palisade Ultimate Calligraphy*SUNROOF*NAVI*AMBIENT LIT*ACC*",
-      "vin": "KM8R5DGE9PU618949",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/65d3a5390c72.html",
-      "year": 2023,
-      "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphy*SUNROOF*NAVI*AMBIENT LIT*ACC*",
-      "condition": "used",
-      "price": 39888.0,
       "price_currency": "CAD"
     },
     {
@@ -193,14 +138,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Jeep Grand Cherokee L Overland L *6 PASS*ACC*PANO ROOF*NAVI*AMBIENT LIT*",
-      "vin": "1C4RJKDG4P8709193",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/2557058232fc.html",
+      "name": "2023 Jeep Grand Cherokee L Summit Reserve*NIGHT VIZ*ACC*AIR SUS*PANO ROOF*",
+      "vin": "1C4RJKET1P8707817",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/2385e13a2f9c.html",
       "year": 2023,
       "make": "Jeep",
-      "model": "Grand Cherokee L Overland L *6 PASS*ACC*PANO ROOF*NAVI*AMBIENT LIT*",
+      "model": "Grand Cherokee L Summit Reserve*NIGHT VIZ*ACC*AIR SUS*PANO ROOF*",
       "condition": "used",
-      "price": 43888.0,
+      "price": 50888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Jeep Grand Cherokee L Altitude *ACC*LANE MNGMT*HTD SEATS*PROX ENTRY*",
+      "vin": "1C4RJKAG3P8846629",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/7d5905dcbd3b.html",
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee L Altitude *ACC*LANE MNGMT*HTD SEATS*PROX ENTRY*",
+      "condition": "used",
+      "price": 34888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Jeep Grand Cherokee L Limited *7PASS*PANO RF*ACC*BLIND SPT*HTD STS*",
+      "vin": "1C4RJKBG9P8885983",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/6d4eeab713c5.html",
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee L Limited *7PASS*PANO RF*ACC*BLIND SPT*HTD STS*",
+      "condition": "used",
+      "price": 38988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Jeep Grand Cherokee Laredo *ACC*WIRELESS CHRG*BLIND SPT*HTD STS",
+      "vin": "1C4RJHAG2P8708972",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/0ee85347ea9d.html",
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee Laredo *ACC*WIRELESS CHRG*BLIND SPT*HTD STS",
+      "condition": "used",
+      "price": 30888.0,
       "price_currency": "CAD"
     },
     {
@@ -226,17 +204,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Jeep Wrangler Sahara *ALPINE AUDIO*KEYLESS ENTRY*HTD SEATS",
-      "vin": "1C4HJXEG5PW653025",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/310371a5a032.html",
-      "year": 2023,
-      "make": "Jeep",
-      "model": "Wrangler Sahara *ALPINE AUDIO*KEYLESS ENTRY*HTD SEATS",
-      "condition": "used",
-      "price": 39995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Jeep Wrangler Rubicon*MANUAL*KEYLESS ENTRY*HTD STS*DUAL ZNE CLIM",
       "vin": "1C4HJXFG9PW694157",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/acf1a3026958.html",
@@ -245,6 +212,17 @@
       "model": "Wrangler Rubicon*MANUAL*KEYLESS ENTRY*HTD STS*DUAL ZNE CLIM",
       "condition": "used",
       "price": 43288.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Jeep Wrangler Sahara *ALPINE AUDIO*PROXIMITY ENTRY*DUAL ZONE CLI",
+      "vin": "1C4HJXEG5PW653025",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/5cf355d72afd.html",
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Wrangler Sahara *ALPINE AUDIO*PROXIMITY ENTRY*DUAL ZONE CLI",
+      "condition": "used",
+      "price": 39488.0,
       "price_currency": "CAD"
     },
     {
@@ -292,14 +270,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 RAM 1500 Tradesman 4x4 Crew Cab*5.7L V8*Trailer Sway Ctrl",
-      "vin": "1C6SRFGT5PN620316",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/37e4b1d7a435.html",
+      "name": "2023 RAM 1500 Rebel *ACC*H/K AUDIO*LANE KEEP*RMT STRT*HTD SEATS",
+      "vin": "1C6SRFLT4PN694266",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/d3fcc4c0ca09.html",
       "year": 2023,
       "make": "RAM",
-      "model": "1500",
+      "model": "1500 Rebel *ACC*H/K AUDIO*LANE KEEP*RMT STRT*HTD SEATS",
       "condition": "used",
-      "price": 52998.0,
+      "price": 51888.0,
       "price_currency": "CAD"
     },
     {
@@ -325,14 +303,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Toyota Corolla Sedan SE",
+      "name": "2023 Toyota Corolla SE",
       "vin": "5YFB4MDE1PP038119",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/09271dce083d.html",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/f49dd1c0110e.html",
       "year": 2023,
       "make": "Toyota",
       "model": "Corolla",
       "condition": "used",
-      "price": 23388.0,
+      "price": 22688.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Chevrolet Trax 2RS *ACC*PARK ASSIST*BLIND SPT*HTD SEATS*LANE KEEP",
+      "vin": "KL77LJE28RC228570",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/00ee3a9b76eb.html",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Trax 2RS *ACC*PARK ASSIST*BLIND SPT*HTD SEATS*LANE KEEP",
+      "condition": "used",
+      "price": 23888.0,
       "price_currency": "CAD"
     },
     {
@@ -347,55 +336,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Dodge Hornet R/T Plus*DEMO*Active Driving Asst*Sunroof*",
-      "vin": "ZACPDFDW5R3A21381",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/98b7b5133182.html",
-      "year": 2024,
-      "make": "Dodge",
-      "model": "Hornet R/T Plus*DEMO*Active Driving Asst*Sunroof*",
-      "condition": "used"
-    },
-    {
-      "name": "2024 Dodge Hornet R/T*DEMO*BlackTop Pkg*TrackPack*Activ Driving Asst",
-      "vin": "ZACPDFCW7R3A21786",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/a97a6f3a016f.html",
-      "year": 2024,
-      "make": "Dodge",
-      "model": "Hornet R/T*DEMO*BlackTop Pkg*TrackPack*Activ Driving Asst",
-      "condition": "used"
-    },
-    {
-      "name": "2024 Dodge Hornet R/T*DEMO*BlackTop Pkg*Tech Pack*Activ Driving Asst",
-      "vin": "ZACPDFCW5R3A22967",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/c2cb3ac8bc02.html",
-      "year": 2024,
-      "make": "Dodge",
-      "model": "Hornet R/T*DEMO*BlackTop Pkg*Tech Pack*Activ Driving Asst",
-      "condition": "used"
-    },
-    {
-      "name": "2024 Dodge Hornet R-T Plus PHEV EAWD*Red Leather*VENT SEATS*Sunroof*",
-      "vin": "ZACPDFDW9R3A15812",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/7ae71a6d0715.html",
-      "year": 2024,
-      "make": "Dodge",
-      "model": "Hornet R-T Plus PHEV EAWD*Red Leather*VENT SEATS*Sunroof*",
-      "condition": "used",
-      "price": 48888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Dodge Hornet R-T Plus PHEV EAWD*DEMO*Sunroof*HarmanKardon Audio",
-      "vin": "ZACPDFDW2R3A23752",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/973abd7d1ea1.html",
-      "year": 2024,
-      "make": "Dodge",
-      "model": "Hornet R-T Plus PHEV EAWD*DEMO*Sunroof*HarmanKardon Audio",
-      "condition": "used",
-      "price": 48888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Ford Mustang Convertible EcoBoost Premium Convertible",
       "vin": "1FAGP8UH1R5131047",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/83d1e6c81246.html",
@@ -404,17 +344,6 @@
       "model": "Mustang",
       "condition": "used",
       "price": 37988.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Honda Civic Sedan Sport",
-      "vin": "2HGFE2F57RH106692",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/0b90b8e17a85.html",
-      "year": 2024,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 28588.0,
       "price_currency": "CAD"
     },
     {
@@ -440,6 +369,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Jeep Compass Altitude *NAVI*LANE MNGMT*HTD STS*HTD STEERING*",
+      "vin": "3C4NJDFN9RT580278",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/8101f72d04dc.html",
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Compass Altitude *NAVI*LANE MNGMT*HTD STS*HTD STEERING*",
+      "condition": "used",
+      "price": 28688.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Jeep Grand Cherokee L Summit 4x4*High Altitude Pkg*7 Pass*Mcintosh Audio",
       "vin": "1C4RJKEG5R8515550",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/05c04b3dae30.html",
@@ -451,14 +391,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Jeep Grand Cherokee L Altitude 4x4*Sunroof*Heated Seats/Steering*",
-      "vin": "1C4RJKAGXR8579444",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/6366cd116c1a.html",
+      "name": "2024 Jeep Grand Cherokee L Limited *ACC*BLIND SPT*HTD SEATS*PARK SENSE*",
+      "vin": "1C4RJKBGXR8947913",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/eaba48f54946.html",
       "year": 2024,
       "make": "Jeep",
-      "model": "Grand Cherokee L",
+      "model": "Grand Cherokee L Limited *ACC*BLIND SPT*HTD SEATS*PARK SENSE*",
       "condition": "used",
-      "price": 61889.0,
+      "price": 39888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Jeep Grand Cherokee Limited* ACC*BLIND SPT*RMT STRT*LANE MNGMT*",
+      "vin": "1C4RJHBGXRC158984",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/b19af83aeedb.html",
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand Cherokee Limited* ACC*BLIND SPT*RMT STRT*LANE MNGMT*",
+      "condition": "used",
+      "price": 41088.0,
       "price_currency": "CAD"
     },
     {
@@ -473,14 +424,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Mitsubishi Outlander SEL *7PASS*PANOROOF*WIRELESS CHRG*3 ZONE CLIMATE",
-      "vin": "JA4J4VA81RZ631594",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/df7d37c21a47.html",
+      "name": "2024 Mercedes-Benz GLA GLA 250 *NAVI*SUNRF*AMBIENT LIT*BLIND SPT* HTD STS",
+      "vin": "W1N4N4HB4RJ609138",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/d3f6e98968da.html",
       "year": 2024,
-      "make": "Mitsubishi",
-      "model": "Outlander SEL *7PASS*PANOROOF*WIRELESS CHRG*3 ZONE CLIMATE",
+      "make": "Mercedes-Benz",
+      "model": "GLA GLA 250 *NAVI*SUNRF*AMBIENT LIT*BLIND SPT* HTD STS",
       "condition": "used",
-      "price": 35288.0,
+      "price": 34388.0,
       "price_currency": "CAD"
     },
     {
@@ -502,40 +453,7 @@
       "make": "Toyota",
       "model": "RAV4 XLE *ACC*BLIND SPT*LANE ASSIST*HEATED STS*",
       "condition": "used",
-      "price": 37888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Taos Comfortline *ACC*KEYLESS ENTRY*LANE ASSIST*BLD SPT",
-      "vin": "3VVUX7B22RM083401",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/f18d8820c246.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Taos Comfortline *ACC*KEYLESS ENTRY*LANE ASSIST*BLD SPT",
-      "condition": "used",
-      "price": 27188.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volvo XC90 Plus Bright Theme",
-      "vin": "YV4062PE7R1204455",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/a274fdbf7e2f.html",
-      "year": 2024,
-      "make": "Volvo",
-      "model": "XC90",
-      "condition": "used",
-      "price": 53388.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Audi Q7 ",
-      "vin": "WA1ACBF77SD002006",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/edf1184304a1.html",
-      "year": 2025,
-      "make": "Audi",
-      "model": "Q7",
-      "condition": "used",
-      "price": 53888.0,
+      "price": 37388.0,
       "price_currency": "CAD"
     },
     {
@@ -547,17 +465,6 @@
       "model": "Durango",
       "condition": "used",
       "price": 52888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Dodge Durango R/T *SUNROOF*WIRELESS CHRG*BLIND*NAVI*HTD SEATS",
-      "vin": "1C4SDJCT6SC512923",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/b22284242419.html",
-      "year": 2025,
-      "make": "Dodge",
-      "model": "Durango R/T *SUNROOF*WIRELESS CHRG*BLIND*NAVI*HTD SEATS",
-      "condition": "used",
-      "price": 48588.0,
       "price_currency": "CAD"
     },
     {
@@ -591,6 +498,17 @@
       "model": "Sonata N Line Ultimate*PANO ROOF*BOSE AUDIO*ACC*BLIND SPT",
       "condition": "used",
       "price": 31888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Jeep Grand Cherokee Summit *DEMO*",
+      "vin": "1C4RJHEG2S8727363",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/5c67a4b7a439.html",
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "price": 67888.0,
       "price_currency": "CAD"
     },
     {
@@ -635,17 +553,6 @@
       "model": "Wrangler",
       "condition": "used",
       "price": 59998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Kia Sorento X-Line *6-PASS*PANOROOF*ACC*HTD STS*BLIND SPT*",
-      "vin": "5XYRHDJF7SG329740",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/015b8a4e34b5.html",
-      "year": 2025,
-      "make": "Kia",
-      "model": "Sorento X-Line *6-PASS*PANOROOF*ACC*HTD STS*BLIND SPT*",
-      "condition": "used",
-      "price": 47121.0,
       "price_currency": "CAD"
     },
     {
@@ -726,39 +633,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 RAM ProMaster Cargo Van Tradesman 2500 High Roof 136  WB",
-      "vin": "3C6LRVCG8SE558107",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/8f8403b1e543.html",
-      "year": 2025,
-      "make": "RAM",
-      "model": "ProMaster",
-      "condition": "used",
-      "price": 48588.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Jetta Sedan Comfortline *ACC*KEYLESS ENTRY*LANE ASSIST*BLD SPT",
-      "vin": "3VWEX7BU4SM070611",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/40560eafc8c4.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Jetta Sedan Comfortline *ACC*KEYLESS ENTRY*LANE ASSIST*BLD SPT",
-      "condition": "used",
-      "price": 26688.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Taos Highline *PANO ROOF*BLIND SPT*LANE KEEP*HTD SEATS*",
-      "vin": "3VV4C7B24SM075138",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/761f82e29936.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Taos Highline *PANO ROOF*BLIND SPT*LANE KEEP*HTD SEATS*",
-      "condition": "used",
-      "price": 32788.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Volkswagen Taos Comfortline",
       "vin": "3VVUC7B2XSM076116",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/a8cf43b30698.html",
@@ -770,17 +644,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Volkswagen Taos Comfortline *LANE KEEP*BLIND SPT*DUAL ZONE*",
-      "vin": "3VVUC7B20SM079302",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/db3318379435.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Taos Comfortline *LANE KEEP*BLIND SPT*DUAL ZONE*",
-      "condition": "used",
-      "price": 28988.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Volkswagen Taos Comfortline *LANE KEEP*BLIND SPT*HTD SEATS*",
       "vin": "3VVUC7B24SM072806",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/d7d35c39277b.html",
@@ -788,7 +651,18 @@
       "make": "Volkswagen",
       "model": "Taos Comfortline *LANE KEEP*BLIND SPT*HTD SEATS*",
       "condition": "used",
-      "price": 31288.0,
+      "price": 29888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Volkswagen Taos Trendline *LANE KEEP*BLIND SPT*ACC*HTD STS**",
+      "vin": "3VV8C7B22SM055603",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/5a3aca5e46dc.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Taos Trendline *LANE KEEP*BLIND SPT*ACC*HTD STS**",
+      "condition": "used",
+      "price": 25988.0,
       "price_currency": "CAD"
     },
     {
@@ -799,7 +673,18 @@
       "make": "Audi",
       "model": "A3 Sedan Quattro*SUNROOF*BLIND SPT*HTD SEATS*WIRELESS CRG",
       "condition": "used",
-      "price": 39998.0,
+      "price": 39688.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chrysler Grand Caravan SXT *DEMO*",
+      "vin": "2C4RC1ZG6TR227000",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/8a51813729c0.html",
+      "year": 2026,
+      "make": "Chrysler",
+      "model": "Grand Caravan",
+      "condition": "used",
+      "price": 43888.0,
       "price_currency": "CAD"
     },
     {
@@ -858,6 +743,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Dodge Charger Scat Pack",
+      "vin": "2C3CDARP7TR243343",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/11ec1f1bbc83.html",
+      "year": 2026,
+      "make": "Dodge",
+      "model": "Charger",
+      "condition": "used"
+    },
+    {
       "name": "2026 Dodge Durango GT HEMI Plus",
       "vin": "1C4SDJCT6TC164896",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/987e4a748664.html",
@@ -866,6 +760,39 @@
       "model": "Durango",
       "condition": "used",
       "price": 54688.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Dodge Durango GT HEMI Plus *BLIND SPT*ACC*WIRELESS CHRG*PRK SENS",
+      "vin": "1C4SDJCT2TC168265",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/03f4aa6a576d.html",
+      "year": 2026,
+      "make": "Dodge",
+      "model": "Durango GT HEMI Plus *BLIND SPT*ACC*WIRELESS CHRG*PRK SENS",
+      "condition": "used",
+      "price": 56888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Dodge Durango GT Plus",
+      "vin": "1C4RDJDG5TC314304",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/8277e657a773.html",
+      "year": 2026,
+      "make": "Dodge",
+      "model": "Durango",
+      "condition": "used",
+      "price": 59999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Dodge Durango GT Plus *DEMO*",
+      "vin": "1C4RDJDG2TC314373",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/e08d3d31d8f5.html",
+      "year": 2026,
+      "make": "Dodge",
+      "model": "Durango",
+      "condition": "used",
+      "price": 58700.0,
       "price_currency": "CAD"
     },
     {
@@ -1760,17 +1687,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda CR-V Hybrid TrailSport *HYBRID*SUNROOF*WIRELESS CHRG*",
-      "vin": "2HKRS6H66TH210963",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/a83afd3bff27.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "CR-V Hybrid TrailSport *HYBRID*SUNROOF*WIRELESS CHRG*",
-      "condition": "used",
-      "price": 46588.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Honda CR-V Hybrid EX-L Hybrid *SUNROOF*WIRELESS CHRG*ACC*HTD SEATS*",
       "vin": "2HKRS6H77TH231183",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/a0ebe1350a3c.html",
@@ -1782,14 +1698,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson Hybrid Ultimate",
+      "name": "2026 Honda CR-V Hybrid Touring Hybrid *ACC*BLIND SPT*WIRELESS CHRG*BOSE*",
+      "vin": "2HKRS6H93TH203463",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/fb727bee57d2.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V Hybrid Touring Hybrid *ACC*BLIND SPT*WIRELESS CHRG*BOSE*",
+      "condition": "used",
+      "price": 48988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Honda CR-V LX *ADAPT CRUSIE*WIRELESS CHRG*HTD SEATS*BLIND SPT",
+      "vin": "2HKRS4H23TH104858",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/881acda768a3.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V LX *ADAPT CRUSIE*WIRELESS CHRG*HTD SEATS*BLIND SPT",
+      "condition": "used",
+      "price": 36488.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Honda CR-V Sport *SUNROOF*WIRELESS CHRG*ACC*BLIND SPT*",
+      "vin": "2HKRS4H55TH100563",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/1a812d2200db.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V Sport *SUNROOF*WIRELESS CHRG*ACC*BLIND SPT*",
+      "condition": "used",
+      "price": 43388.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Hybrid Ultimate *WIRELESS CRG*PANO ROOF*NAVI*HTD SEATS*",
       "vin": "KM8JCDD18TU440711",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/f0c35ee9bd94.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid",
+      "model": "Tucson Hybrid Ultimate *WIRELESS CRG*PANO ROOF*NAVI*HTD SEATS*",
       "condition": "used",
-      "price": 46248.0,
+      "price": 45388.0,
       "price_currency": "CAD"
     },
     {
@@ -1800,8 +1749,39 @@
       "make": "Hyundai",
       "model": "Venue Preferred *HTD SEATS*WIRELESS CHRG*KEYLESS ENTRY*",
       "condition": "used",
-      "price": 23988.0,
+      "price": 22888.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Cherokee Laredo *DEMO*",
+      "vin": "3C4PJMB26TT220557",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/1e1437c918b2.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "used",
+      "price": 44888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Cherokee Overland",
+      "vin": "3C4PJMC25TT256500",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/f0c795555d67.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "used",
+      "price": 55775.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Cherokee Laredo *DEMO*",
+      "vin": "3C4PJMB21TT229814",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/5f329f13cca4.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "used"
     },
     {
       "name": "2026 Jeep Compass Limited *PANOROOF*ACC*HTD SEATS*APLINE AUDIO*",
@@ -1811,18 +1791,18 @@
       "make": "Jeep",
       "model": "Compass Limited *PANOROOF*ACC*HTD SEATS*APLINE AUDIO*",
       "condition": "used",
-      "price": 35688.0,
+      "price": 33888.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Limited",
+      "name": "2026 Jeep Compass Limited *PANOROOF*NAVI*BLIND SPT*HTD SEATS*",
       "vin": "3C4NJDCN7TT156643",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/950c1f0b8e3b.html",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass",
+      "model": "Compass Limited *PANOROOF*NAVI*BLIND SPT*HTD SEATS*",
       "condition": "used",
-      "price": 35888.0,
+      "price": 34888.0,
       "price_currency": "CAD"
     },
     {
@@ -1833,18 +1813,49 @@
       "make": "Jeep",
       "model": "Compass Limited *ACC*BLIND SPT*PARK SENSE*PROX ENTRY*",
       "condition": "used",
-      "price": 35388.0,
+      "price": 33888.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Limited *PANOROOF*ACC*HTD SEATS*NAVI*BLIND SPT*",
-      "vin": "3C4NJDCN8TT170504",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/1739bfb50dc0.html",
+      "name": "2026 Jeep Compass North",
+      "vin": "3C4NJDBN5TT154889",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/b1b1a69c3b77.html",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Limited *PANOROOF*ACC*HTD SEATS*NAVI*BLIND SPT*",
+      "model": "Compass",
+      "condition": "used"
+    },
+    {
+      "name": "2026 Jeep Compass North *DEMO*",
+      "vin": "3C4NJDBN6TT185536",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/2b4fd54c7e41.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
       "condition": "used",
-      "price": 35688.0,
+      "price": 41888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Grand Cherokee 85th Anniversary",
+      "vin": "1C4RJHAR4TC267452",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/4f963de288f3.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "price": 62888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Grand Cherokee Limited",
+      "vin": "1C4RJHARXTC222158",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/2b0491c49e1f.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "price": 59888.0,
       "price_currency": "CAD"
     },
     {
@@ -1866,7 +1877,7 @@
       "make": "Jeep",
       "model": "Wrangler Rubicon X *RECON PKG*ADAPT CRUISE*NAVI*BLIND SPT",
       "condition": "used",
-      "price": 67888.0,
+      "price": 65888.0,
       "price_currency": "CAD"
     },
     {
@@ -1878,6 +1889,28 @@
       "model": "Wrangler",
       "condition": "used",
       "price": 68888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Wrangler Sahara",
+      "vin": "1C4PJXEG1TW329320",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/08a5100a8b1d.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "used",
+      "price": 60490.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Wrangler Willys",
+      "vin": "1C4PJXDGXTW273430",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/59e4f13925df.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "used",
+      "price": 57690.0,
       "price_currency": "CAD"
     },
     {
@@ -3077,6 +3110,59 @@
       "model": "Wrangler",
       "condition": "new",
       "price": 57875.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 RAM 1500 Sport *HTD SEATS*BRK ASSIST*DUAL ZN CLIM*",
+      "vin": "1C6SRFVP2TN236042",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/e96a656a77ea.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500 Sport *HTD SEATS*BRK ASSIST*DUAL ZN CLIM*",
+      "condition": "used",
+      "price": 66388.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 RAM 1500 Big Horn",
+      "vin": "3C6SRFFP3T4150778",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/68bdef809a0d.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used",
+      "price": 69999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 RAM 1500 Rebel",
+      "vin": "1C6SRFLPXTN397029",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/2f1d7410ba5c.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used"
+    },
+    {
+      "name": "2026 RAM 1500 Sport *DEMO*",
+      "vin": "3C6SRFVP0T4156233",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/7c36d8833d26.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used",
+      "price": 72888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 RAM 1500 Sport *PANO ROOF*BLIND SPOT*LANE ASSIST*NAVI*",
+      "vin": "1C6SRFVP5TN363495",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/f60e0599c9f5.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500 Sport *PANO ROOF*BLIND SPOT*LANE ASSIST*NAVI*",
+      "condition": "used",
+      "price": 67988.0,
       "price_currency": "CAD"
     },
     {
@@ -4807,36 +4893,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Camry Sedan SE Upgrade Hybrid *SUNROOF*WIRELESS CHRG*ACC*",
+      "name": "2026 Toyota Camry SE Upgrade Hybrid *SUNROOF*WIRELESS CHRG*ACC*",
       "vin": "4T1DBADK9TU068240",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/a4e6e7ca3ee9.html",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/fe46dc376411.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "Camry Sedan SE Upgrade Hybrid *SUNROOF*WIRELESS CHRG*ACC*",
+      "model": "Camry SE Upgrade Hybrid *SUNROOF*WIRELESS CHRG*ACC*",
       "condition": "used",
-      "price": 48888.0,
+      "price": 48188.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Corolla Cross LE",
-      "vin": "7MUCAAAG2TV203832",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/32c89052454a.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla Cross",
-      "condition": "used",
-      "price": 32888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota RAV4 Plug-in Hybrid SE",
+      "name": "2026 Toyota RAV4 Plug-in Hybrid SE Plug In Hybrid *SUNROOF*ACC*BLIND SPT*LANE KEEP",
       "vin": "JTM7ERAV7TJ001000",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/dc1b48abc286.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "RAV4 Plug-In Hybrid",
+      "model": "RAV4 Plug-in Hybrid SE Plug In Hybrid *SUNROOF*ACC*BLIND SPT*LANE KEEP",
       "condition": "used",
-      "price": 57888.0,
+      "price": 56888.0,
       "price_currency": "CAD"
     },
     {
@@ -4847,7 +4922,7 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 55888.0,
+      "price": 51888.0,
       "price_currency": "CAD"
     },
     {
@@ -4858,7 +4933,7 @@
       "make": "Volkswagen",
       "model": "Jetta Sedan Comfortline *BLIND SPT*LANE ASSIST*FRONT ASSIST",
       "condition": "used",
-      "price": 29588.0,
+      "price": 28988.0,
       "price_currency": "CAD"
     },
     {
@@ -4869,18 +4944,7 @@
       "make": "Volkswagen",
       "model": "Taos Trendline *BLIND SPT*FRONT ASSIST*HTD SEATS*",
       "condition": "used",
-      "price": 30888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan Comfortline *AMBIENT LIGHT*LANE KEEP*BLIND SPT*",
-      "vin": "3VVER7RM4TM006817",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/283fc7f2a0de.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan Comfortline *AMBIENT LIGHT*LANE KEEP*BLIND SPT*",
-      "condition": "used",
-      "price": 37888.0,
+      "price": 29388.0,
       "price_currency": "CAD"
     },
     {
@@ -4902,7 +4966,7 @@
       "make": "Volkswagen",
       "model": "Tiguan Comfortline R-Line Black Edition *PANO ROOF*ACC*",
       "condition": "used",
-      "price": 42988.0,
+      "price": 41188.0,
       "price_currency": "CAD"
     },
     {
@@ -4914,6 +4978,17 @@
       "model": "Tiguan",
       "condition": "used",
       "price": 41888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Volkswagen Tiguan Comfortline *ACC*LANE KEEP*BLIND SPT*AMBIENT LIT",
+      "vin": "3VVER7RM9TM100630",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/7a89ac6a0e6d.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan Comfortline *ACC*LANE KEEP*BLIND SPT*AMBIENT LIT",
+      "condition": "used",
+      "price": 37188.0,
       "price_currency": "CAD"
     },
     {
