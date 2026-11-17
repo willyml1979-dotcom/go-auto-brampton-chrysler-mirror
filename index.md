@@ -1,6 +1,6 @@
 # Go Auto Brampton Chrysler
 
-Chrysler dealership in ON. AI-readable inventory mirror, about 551 vehicles.
+Chrysler dealership in ON. AI-readable inventory mirror, about 504 vehicles.
 
 - Official website: https://www.bramptonchrysler.ca
 - Used vehicles: https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/

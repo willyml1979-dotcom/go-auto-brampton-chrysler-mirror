@@ -1,7 +1,7 @@
 {
   "dealership": "Go Auto Brampton Chrysler",
-  "generated_at": "2026-11-17T04:19:25",
-  "vehicle_count": 551,
+  "generated_at": "2026-11-17T05:05:35",
+  "vehicle_count": 504,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -688,61 +688,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chrysler Grand Caravan SXT 2WD",
-      "vin": "2C4RC1ZGXTR285790",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/d4682fa8203d.html",
-      "year": 2026,
-      "make": "Chrysler",
-      "model": "Grand Caravan",
-      "condition": "new",
-      "price": 46090.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chrysler Grand Caravan SXT 2WD",
-      "vin": "2C4RC1ZG1TR285791",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/7a82aaba6747.html",
-      "year": 2026,
-      "make": "Chrysler",
-      "model": "Grand Caravan",
-      "condition": "new",
-      "price": 46090.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chrysler Grand Caravan SXT",
-      "vin": "2C4RC1ZG5TR187153",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/3f3eeae44357.html",
-      "year": 2026,
-      "make": "Chrysler",
-      "model": "Grand Caravan",
-      "condition": "new",
-      "price": 44995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chrysler Grand Caravan SXT",
-      "vin": "2C4RC1ZG9TR187477",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/2f6e9b33310d.html",
-      "year": 2026,
-      "make": "Chrysler",
-      "model": "Grand Caravan",
-      "condition": "new",
-      "price": 45490.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chrysler Grand Caravan SXT",
-      "vin": "2C4RC1ZG3TR187152",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/d5a3caa8f97d.html",
-      "year": 2026,
-      "make": "Chrysler",
-      "model": "Grand Caravan",
-      "condition": "new",
-      "price": 44995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Dodge Charger Scat Pack",
       "vin": "2C3CDARP7TR243343",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/11ec1f1bbc83.html",
@@ -906,17 +851,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
-      "vin": "1C4SDJCT4TC277133",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/1590df93402b.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 67680.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Dodge Durango GT Plus AWD",
       "vin": "1C4RDJDG3TC314303",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/77c38ff62125.html",
@@ -991,17 +925,6 @@
       "model": "Durango",
       "condition": "new",
       "price": 65680.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Dodge Durango GT Plus AWD",
-      "vin": "1C4RDJDG7TC314305",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/513b023e3211.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 58575.0,
       "price_currency": "CAD"
     },
     {
@@ -1096,17 +1019,6 @@
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
       "vin": "1C4SDJCT9TC318470",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/400cfc24f991.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 65780.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
-      "vin": "1C4SDJCT1TC317569",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/dc9b59bb2562.html",
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
@@ -1226,17 +1138,6 @@
     },
     {
       "name": "2026 Dodge Durango GT Plus AWD",
-      "vin": "1C4RDJDG0TC316249",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/cefa8f52885a.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 58675.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Dodge Durango GT Plus AWD",
       "vin": "1C4RDJDGXTC319367",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/646de290d853.html",
       "year": 2026,
@@ -1299,17 +1200,6 @@
       "model": "Durango",
       "condition": "new",
       "price": 58675.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Dodge Durango GT Plus AWD",
-      "vin": "1C4RDJDG5TC317591",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/4b77765898de.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 58575.0,
       "price_currency": "CAD"
     },
     {
@@ -1415,28 +1305,6 @@
       "name": "2026 Dodge Durango GT Plus AWD",
       "vin": "1C4RDJDG3TC319372",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/db7b0279ff7d.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 58675.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Dodge Durango GT Plus AWD",
-      "vin": "1C4RDJDGXTC317568",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/bf87c31a33de.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 58575.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Dodge Durango GT Plus AWD",
-      "vin": "1C4RDJDG2TC319900",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/253e6c021cda.html",
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
@@ -1555,17 +1423,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango GT Plus AWD",
-      "vin": "1C4RDJDG4TC319347",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/1e3061dda9b4.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 58575.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Dodge Durango GT HEMI V8 Plus AWD",
       "vin": "1C4SDJCT2TC291905",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/fb901b780e40.html",
@@ -1574,28 +1431,6 @@
       "model": "Durango",
       "condition": "new",
       "price": 67280.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Dodge Durango GT Plus AWD",
-      "vin": "1C4RDJDG4TC267086",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/013eacc9d6c7.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 58675.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Dodge Durango GT HEMI V8 Premium AWD",
-      "vin": "1C4SDJCT5TC294748",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/9aa8d2b53c5b.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 75170.0,
       "price_currency": "CAD"
     },
     {
@@ -1651,17 +1486,6 @@
       "model": "Durango",
       "condition": "new",
       "price": 65185.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Dodge Durango GT Plus",
-      "vin": "1C4RDJDG7TC251447",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/d0dce72d26c5.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 58675.0,
       "price_currency": "CAD"
     },
     {
@@ -1936,17 +1760,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Limited 4x4",
-      "vin": "3C4PJMB24TT233985",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/2950d3af967b.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 52680.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Jeep Cherokee Laredo 4x4",
       "vin": "3C4PJMB23TT205661",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/9944edce4d69.html",
@@ -2054,28 +1867,6 @@
       "model": "Cherokee",
       "condition": "new",
       "price": 52880.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Cherokee Overland 4x4",
-      "vin": "3C4PJMC21TT287453",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/8b0b43046180.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 57380.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Cherokee Overland 4x4",
-      "vin": "3C4PJMC25TT287455",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/27b374193b2c.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 56885.0,
       "price_currency": "CAD"
     },
     {
@@ -2211,17 +2002,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Overland 4x4",
-      "vin": "3C4PJMC26TT283320",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/5a59930a576c.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 56980.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Jeep Cherokee Laredo",
       "vin": "3C4PJMB21TT220109",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/3499918ae374.html",
@@ -2321,17 +2101,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Overland",
-      "vin": "3C4PJMC22TT276574",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/e10435513702.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 54385.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Jeep Cherokee 85th Anniversary Edition",
       "vin": "3C4PJMB2XTT263248",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/c4237a62ecd2.html",
@@ -2420,17 +2189,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee 85th Anniversary Edition",
-      "vin": "3C4PJMB2XTT263251",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/ee971a398bb8.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 54380.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Jeep Cherokee 4x4",
       "vin": "3C4PJMA26TT236811",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/271ae6d40d16.html",
@@ -2453,28 +2211,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Altitude*Active Lane Mgt*Blind Spot Mntr*Htd Seats",
-      "vin": "3C4NJDBN5TT154889",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/c9c5a58dbe1a.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass Altitude*Active Lane Mgt*Blind Spot Mntr*Htd Seats",
-      "condition": "new",
-      "price": 41085.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North 4x4",
-      "vin": "3C4NJDBN1TT254438",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/32a4aa138759.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 39585.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Jeep Compass North 4x4",
       "vin": "3C4NJDBNXTT254437",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/a309e70c49c0.html",
@@ -2486,17 +2222,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass North 4x4",
-      "vin": "3C4NJDBN3TT235938",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/860e3cd7ea78.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 36690.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Jeep Compass Limited",
       "vin": "3C4NJDCN6TT153863",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/1a4c904a0ab2.html",
@@ -2505,17 +2230,6 @@
       "model": "Compass",
       "condition": "new",
       "price": 43590.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN9TT153485",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/6407f4810819.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 36690.0,
       "price_currency": "CAD"
     },
     {
@@ -2643,17 +2357,6 @@
       "name": "2026 Jeep Gladiator Willys",
       "vin": "1C6PJTAG2TL152297",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/e53add0526f5.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Gladiator",
-      "condition": "new",
-      "price": 59345.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Gladiator Willys",
-      "vin": "1C6PJTAG8TL154846",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/0b82912f846a.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
@@ -2871,17 +2574,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Grand Cherokee Altitude",
-      "vin": "1C4RJHARXTC201861",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/65b97ce2336c.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "new",
-      "price": 62180.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Jeep Grand Cherokee Laredo X",
       "vin": "1C4RJHAG8TC250054",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/d0fad53bf303.html",
@@ -2945,17 +2637,6 @@
       "model": "Grand Wagoneer",
       "condition": "new",
       "price": 94685.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Grand Wagoneer 85th Anniversary Edition",
-      "vin": "1C4SJVAPXTS180983",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/96f05d8c2e9a.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Grand Wagoneer",
-      "condition": "new",
-      "price": 93790.0,
       "price_currency": "CAD"
     },
     {
@@ -3069,14 +2750,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Wrangler 4-Door Sahara",
-      "vin": "1C4PJXEN4TW232532",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/fa76ea051d11.html",
+      "name": "2026 Jeep Wrangler 85th Anniversary Edition",
+      "vin": "1C4PJXDGXTW282290",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/f7e09537a85c.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "new",
-      "price": 54880.0,
+      "price": 60860.0,
       "price_currency": "CAD"
     },
     {
@@ -3199,17 +2880,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 Sport Crew Cab 4x4*3.0L I-6 Hurricane*Pano Roof",
-      "vin": "3C6SRFVP2T4180484",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/f25cd2dbd007.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 69520.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 RAM 1500 BLACK EXPRESS*LUXURY INTERIOR*ADVANCED SAFETY*STEP",
       "vin": "3C6RRFGG6T4180483",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/507665790550.html",
@@ -3218,61 +2888,6 @@
       "model": "1500 BLACK EXPRESS*LUXURY INTERIOR*ADVANCED SAFETY*STEP",
       "condition": "new",
       "price": 58840.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 ",
-      "vin": "1C6SRFVT9TN339598",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/22820cae218d.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 85050.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Express 4x4 Quad Cab 6'4  Box",
-      "vin": "1C6RRFCG6TN346609",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/d42bc1bcf1dd.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 53020.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
-      "vin": "1C6SRFVT9TN363707",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/972a8eecce4c.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 72270.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Express 4x4 Quad Cab 6'4  Box",
-      "vin": "1C6RRFCG4TN362761",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/c98aa66a0429.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 53020.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 RHO 4x4 Crew Cab 5'7  Box",
-      "vin": "1C6SRFUP5TN333642",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/dfb2a7f3fe30.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 127334.0,
       "price_currency": "CAD"
     },
     {
@@ -3295,39 +2910,6 @@
       "model": "1500",
       "condition": "new",
       "price": 53020.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
-      "vin": "1C6SRFVP6TN363487",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/2106ce5fe38e.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 68625.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 *DIRECT CONNECTION 650 SUPERCHARGED HEMI*",
-      "vin": "1C6SRFVT0TN368665",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/df8e93b8fcb7.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500 *DIRECT CONNECTION 650 SUPERCHARGED HEMI*",
-      "condition": "new",
-      "price": 128008.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
-      "vin": "1C6SRFVP4TN363486",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/4f7d7346de99.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 68625.0,
       "price_currency": "CAD"
     },
     {
@@ -3372,28 +2954,6 @@
       "model": "1500",
       "condition": "new",
       "price": 79565.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
-      "vin": "1C6SRFLT7TN391380",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/e49d720a5905.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 79465.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 RHO 4x4 Crew Cab 5'7  Box",
-      "vin": "1C6SRFUP3TN365585",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/766d8c02a096.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 127334.0,
       "price_currency": "CAD"
     },
     {
@@ -3474,17 +3034,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
-      "vin": "1C6SRFVT2TN397181",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/68b8926fef64.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 84475.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 RAM 1500 Tungsten 4x4 Crew Cab 5'7  Box",
       "vin": "1C6SRFKP3TN416036",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/aba933f7c008.html",
@@ -3526,39 +3075,6 @@
       "model": "1500",
       "condition": "new",
       "price": 69545.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
-      "vin": "3C6SRFVPXT4173458",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/ab085d2e1f46.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 69445.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Sport 4x4 Crew Cab 5'7  Box",
-      "vin": "3C6SRFVP8T4173457",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/f2ace97a3d4b.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 69445.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
-      "vin": "1C6SRFLPXTN397029",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/c7f53e2d38ac.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 84670.0,
       "price_currency": "CAD"
     },
     {
@@ -3739,17 +3255,6 @@
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
-      "vin": "3C6SRFLP2T4213129",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/c7c9d255fb35.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 76495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
       "vin": "3C6SRFLP3T4213138",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/69a81fc776cb.html",
       "year": 2026,
@@ -3805,17 +3310,6 @@
     },
     {
       "name": "2026 RAM 1500 Tungsten 4x4 Crew Cab 5'7  Box",
-      "vin": "1C6SRFKP2TN439016",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/552e2d755be7.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 99606.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Tungsten 4x4 Crew Cab 5'7  Box",
       "vin": "1C6SRFKP6TN439018",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/84c1926cf3d8.html",
       "year": 2026,
@@ -3834,17 +3328,6 @@
       "model": "1500",
       "condition": "new",
       "price": 99606.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Express 4x4 Crew Cab 5'7  Box",
-      "vin": "3C6SRFGP6T4217212",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/da902ff488ec.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 62560.0,
       "price_currency": "CAD"
     },
     {
@@ -4126,17 +3609,6 @@
       "name": "2026 RAM 1500 Limited 4x4 Crew Cab 5'7  Box",
       "vin": "1C6SRFHP1TN439015",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/698c00553f6c.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 102222.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Limited 4x4 Crew Cab 5'7  Box",
-      "vin": "1C6SRFHP6TN439012",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/b5a9cae88fe4.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
@@ -4526,7 +3998,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 69015.0,
+      "price": 75015.0,
       "price_currency": "CAD"
     },
     {
@@ -4537,7 +4009,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 72300.0,
+      "price": 78300.0,
       "price_currency": "CAD"
     },
     {
@@ -4548,18 +4020,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 66860.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7  Box",
-      "vin": "3C6SRFLP4T4216663",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/4bbe84886f7d.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 79685.0,
+      "price": 72860.0,
       "price_currency": "CAD"
     },
     {
@@ -4648,17 +4109,6 @@
       "model": "1500",
       "condition": "new",
       "price": 70310.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Rebel",
-      "vin": "3C6SRFLP9T4212513",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/cff892ef77ea.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 76700.0,
       "price_currency": "CAD"
     },
     {
@@ -4772,17 +4222,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 Laramie",
-      "vin": "3C6SRFJP1T4220480",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/40afe6b07447.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 81335.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 RAM 1500 Sport",
       "vin": "1C6SRFVT3TN373200",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/450abd75842a.html",
@@ -4802,6 +4241,17 @@
       "model": "1500",
       "condition": "new",
       "price": 69000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 RAM 1500 Rebel",
+      "vin": "3C6SRFLP0T4195553",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/db4ef2a70e89.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 75400.0,
       "price_currency": "CAD"
     },
     {
@@ -4849,17 +4299,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 2500 Big Horn",
-      "vin": "3C63R5DL0TG301668",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/903835b53e68.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "2500",
-      "condition": "new",
-      "price": 89120.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 RAM 3500 Big Horn",
       "vin": "3C63R3DL9TG322815",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/bacbecb103a4.html",
@@ -4868,17 +4307,6 @@
       "model": "3500",
       "condition": "new",
       "price": 90705.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM ProMaster Cargo Van High Roof 159 in. WB",
-      "vin": "3C6MRWEZ2TE202486",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/1653e58e9c79.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "ProMaster",
-      "condition": "new",
-      "price": 84755.0,
       "price_currency": "CAD"
     },
     {
@@ -5003,25 +4431,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Chrysler Pacifica Select FWD",
-      "vin": "2C4RC1BG5VR573875",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/f4b63bf9252e.html",
+      "name": "2027 Chrysler Pacifica Select",
+      "vin": "2C4RC1BG2VR582453",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/9753c15a9c4a.html",
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "new",
-      "price": 56580.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chrysler Pacifica Select FWD",
-      "vin": "2C4RC1BG7VR573876",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/c89408ca344e.html",
-      "year": 2027,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "new",
-      "price": 56580.0,
+      "price": 59125.0,
       "price_currency": "CAD"
     },
     {
@@ -5055,17 +4472,6 @@
       "model": "Pacifica",
       "condition": "new",
       "price": 59885.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chrysler Pacifica Select",
-      "vin": "2C4RC1BG2VR565023",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/6465693cd935.html",
-      "year": 2027,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "new",
-      "price": 54785.0,
       "price_currency": "CAD"
     },
     {
@@ -5234,6 +4640,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Chrysler Pacifica Limited AWD",
+      "vin": "2C4RC3GG7VR636785",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/d898b96114e3.html",
+      "year": 2027,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "condition": "new",
+      "price": 68825.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Dodge Durango GT Plus AWD",
       "vin": "1C4RDJDGXVC576693",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/8ae363272054.html",
@@ -5322,14 +4739,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Jeep Grand Cherokee L Limited",
-      "vin": "1C4RJKAR8V8180124",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/419098f875ac.html",
+      "name": "2027 Dodge Durango GT HEMI Premium",
+      "vin": "1C4SDJCT1VC595925",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/d56c0c6fd684.html",
       "year": 2027,
-      "make": "Jeep",
-      "model": "Grand Cherokee L",
+      "make": "Dodge",
+      "model": "Durango",
       "condition": "new",
-      "price": 79925.0,
+      "price": 86344.0,
       "price_currency": "CAD"
     },
     {
@@ -5363,6 +4780,28 @@
       "model": "Grand Cherokee",
       "condition": "new",
       "price": 78530.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Jeep Grand Cherokee Limited",
+      "vin": "1C4RJHAR6V8190136",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/21cc98873879.html",
+      "year": 2027,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "price": 78425.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Jeep Grand Wagoneer Overland",
+      "vin": "1C4SJVDP9VS566356",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/2cd26e004dad.html",
+      "year": 2027,
+      "make": "Jeep",
+      "model": "Grand Wagoneer",
+      "condition": "new",
+      "price": 108556.0,
       "price_currency": "CAD"
     },
     {
@@ -5465,17 +4904,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Jeep Wrangler 4-Door Willys",
-      "vin": "1C4PJXDN1VW582172",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/9124e60490ce.html",
-      "year": 2027,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 75360.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Jeep Wrangler 4-Door Sahara",
       "vin": "1C4PJXEG9VW561537",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/73a6e630ec03.html",
@@ -5506,6 +4934,28 @@
       "model": "Wrangler",
       "condition": "new",
       "price": 49430.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Jeep Wrangler Sport",
+      "vin": "1C4PJXAG6VW603801",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/373dab363e94.html",
+      "year": 2027,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 48935.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Jeep Wrangler Smoky Mountain",
+      "vin": "1C4PJXDG9VW595771",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/3b06d0081098.html",
+      "year": 2027,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 75050.0,
       "price_currency": "CAD"
     },
     {
@@ -5608,17 +5058,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 TRX 4x4 Crew Cab 5'7  Box",
-      "vin": "1C6SRFU93VN602452",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/b3683f8e9a0b.html",
-      "year": 2027,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 168742.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 RAM 1500 Express 4x4 Crew Cab 5'7  Box",
       "vin": "3C6RRFGG2V4512597",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/0e5a253723d7.html",
@@ -5638,17 +5077,6 @@
       "model": "1500",
       "condition": "new",
       "price": 71065.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 RAM 1500 TRX 4x4 Crew Cab 5'7  Box",
-      "vin": "1C6SRFU90VN603834",
-      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/5a9f001d8948.html",
-      "year": 2027,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 170296.0,
       "price_currency": "CAD"
     },
     {
@@ -6001,6 +5429,61 @@
       "model": "1500",
       "condition": "new",
       "price": 98120.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 RAM 1500 Tungsten",
+      "vin": "1C6SRFKP9VN637028",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/daa63a842d4c.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 117200.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 RAM 1500 Rebel",
+      "vin": "1C6SRFLT4VN604708",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/42e77810f32f.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 81865.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 RAM 1500 Limited",
+      "vin": "1C6SRFHP9VN637036",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/7fe70fe257a6.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 117068.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 RAM 1500 Limited",
+      "vin": "1C6SRFHP7VN637035",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/893976b07172.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 117068.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 RAM 1500 Rebel",
+      "vin": "1C6SRFLP7VN604544",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/new/b2cb9575f065.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 80620.0,
       "price_currency": "CAD"
     },
     {
