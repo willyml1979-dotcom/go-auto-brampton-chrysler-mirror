@@ -1,6 +1,6 @@
 {
   "dealership": "Go Auto Brampton Chrysler",
-  "generated_at": "2026-11-17T22:55:59",
+  "generated_at": "2026-11-18T07:55:57",
   "vehicle_count": 504,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -116,14 +116,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Hyundai Venue Essential",
+      "name": "2023 Hyundai Venue Essential *BACKUP CAM*HTD SEAT*CRUISE CNTRL*",
       "vin": "KMHRB8A3XPU260736",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/d1fccb6c0909.html",
       "year": 2023,
       "make": "Hyundai",
-      "model": "Venue",
+      "model": "Venue Essential *BACKUP CAM*HTD SEAT*CRUISE CNTRL*",
       "condition": "used",
-      "price": 18988.0,
+      "price": 17988.0,
       "price_currency": "CAD"
     },
     {
@@ -189,7 +189,7 @@
       "make": "Jeep",
       "model": "Wrangler Sahara *DUAL ZONE CLIM*REMOTE STRT*HTD SEATS",
       "condition": "used",
-      "price": 34988.0,
+      "price": 33688.0,
       "price_currency": "CAD"
     },
     {
@@ -200,7 +200,7 @@
       "make": "Jeep",
       "model": "Wrangler High Altitude 4 Door 4x4 *BLIND SPT*ALPINE AUDIO*",
       "condition": "used",
-      "price": 38888.0,
+      "price": 37188.0,
       "price_currency": "CAD"
     },
     {
@@ -211,7 +211,7 @@
       "make": "Jeep",
       "model": "Wrangler Rubicon*MANUAL*KEYLESS ENTRY*HTD STS*DUAL ZNE CLIM",
       "condition": "used",
-      "price": 43288.0,
+      "price": 40888.0,
       "price_currency": "CAD"
     },
     {
@@ -288,7 +288,7 @@
       "make": "Tesla",
       "model": "Model Y",
       "condition": "used",
-      "price": 47888.0,
+      "price": 43888.0,
       "price_currency": "CAD"
     },
     {
@@ -336,14 +336,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford Mustang Convertible EcoBoost Premium Convertible",
+      "name": "2024 Ford Mustang Convertible EcoBoost Premium Convertible *BLIND SPT*DUAL ZONE*",
       "vin": "1FAGP8UH1R5131047",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/83d1e6c81246.html",
       "year": 2024,
       "make": "Ford",
-      "model": "Mustang",
+      "model": "Mustang Convertible EcoBoost Premium Convertible *BLIND SPT*DUAL ZONE*",
       "condition": "used",
-      "price": 37988.0,
+      "price": 36188.0,
       "price_currency": "CAD"
     },
     {
@@ -420,7 +420,7 @@
       "make": "Jeep",
       "model": "Wrangler Sahara *ACC*KEYLESS ENTRY*BLIND SPT*REMOTE STRT",
       "condition": "used",
-      "price": 46588.0,
+      "price": 45488.0,
       "price_currency": "CAD"
     },
     {
@@ -464,7 +464,7 @@
       "make": "Dodge",
       "model": "Durango",
       "condition": "used",
-      "price": 52888.0,
+      "price": 50988.0,
       "price_currency": "CAD"
     },
     {
@@ -486,7 +486,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 24188.0,
+      "price": 23688.0,
       "price_currency": "CAD"
     },
     {
@@ -497,7 +497,7 @@
       "make": "Hyundai",
       "model": "Sonata N Line Ultimate*PANO ROOF*BOSE AUDIO*ACC*BLIND SPT",
       "condition": "used",
-      "price": 31888.0,
+      "price": 28888.0,
       "price_currency": "CAD"
     },
     {
@@ -1690,7 +1690,7 @@
       "make": "Jeep",
       "model": "Wrangler Sahara *HTD SEATS*BLIND SPT*ACC*PARK SENSE*",
       "condition": "used",
-      "price": 52388.0,
+      "price": 48888.0,
       "price_currency": "CAD"
     },
     {
@@ -5531,14 +5531,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Corolla Hybrid SE",
+      "name": "2027 Toyota Corolla Hybrid Hybrid SE *ACC*NAVI*SUNROOF*BLIND SPT*HTD STS*",
       "vin": "JTDBDMHE4V3040284",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/621c5605a4a8.html",
       "year": 2027,
       "make": "Toyota",
-      "model": "Corolla Hybrid",
+      "model": "Corolla Hybrid Hybrid",
       "condition": "used",
-      "price": 39888.0,
+      "price": 40888.0,
       "price_currency": "CAD"
     }
   ]
