@@ -1,7 +1,7 @@
 {
   "dealership": "Go Auto Brampton Chrysler",
-  "generated_at": "2026-11-18T08:30:30",
-  "vehicle_count": 504,
+  "generated_at": "2026-11-18T16:33:26",
+  "vehicle_count": 510,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -28,6 +28,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2020 Ford Explorer XLT",
+      "vin": "1FMSK8DH3LGD07705",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/757c940ccb7f.html",
+      "year": 2020,
+      "make": "Ford",
+      "model": "Explorer",
+      "condition": "used",
+      "price": 24188.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2020 Mercedes-Benz C-Class Sedan C 300 *NAVI*HEATED STS*DUAL ZONE CLIMATE*",
       "vin": "55SWF8EB0LU334017",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/1111ea09a39d.html",
@@ -36,6 +47,17 @@
       "model": "C-Class Sedan C 300 *NAVI*HEATED STS*DUAL ZONE CLIMATE*",
       "condition": "used",
       "price": 19088.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Dodge Challenger R/T",
+      "vin": "2C3CDZBT2MH509283",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/e6f1297a441f.html",
+      "year": 2021,
+      "make": "Dodge",
+      "model": "Challenger",
+      "condition": "used",
+      "price": 39888.0,
       "price_currency": "CAD"
     },
     {
@@ -58,6 +80,17 @@
       "model": "Cherokee Trailhawk Elite *NAVI*BLND SPT*ACC*LANE KEEP*",
       "condition": "used",
       "price": 21188.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Jeep Gladiator Mojave *RMT STRT*FOX SHOCKS*HTD STS*ALPINE AUDIO*",
+      "vin": "1C6JJTEG2ML540566",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/c08ef269edfc.html",
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Gladiator Mojave *RMT STRT*FOX SHOCKS*HTD STS*ALPINE AUDIO*",
+      "condition": "used",
+      "price": 39888.0,
       "price_currency": "CAD"
     },
     {
@@ -113,6 +146,17 @@
       "model": "Wagoneer 4WD Series III *7PASS*ACC*ALPINE AUDIO*PARK SENSE*",
       "condition": "used",
       "price": 49888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Dodge Charger GT",
+      "vin": "2C3CDXMG1PH567250",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/8cee58385316.html",
+      "year": 2023,
+      "make": "Dodge",
+      "model": "Charger",
+      "condition": "used",
+      "price": 38888.0,
       "price_currency": "CAD"
     },
     {
@@ -233,7 +277,7 @@
       "make": "Land",
       "model": "Rover Discovery R-Dynamic S *HUD*LANE KEEP*AIR RIDE*DUAL SUNROOF*",
       "condition": "used",
-      "price": 41888.0,
+      "price": 38888.0,
       "price_currency": "CAD"
     },
     {
@@ -267,6 +311,17 @@
       "model": "GLC",
       "condition": "used",
       "price": 47188.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 RAM 1500 Classic Crew Cab Express *HEMI*PROX ENTRY*PARK SENSE*DUAL ZN CLIM*",
+      "vin": "3C6RR7KT7PG667321",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/42e102fe1102.html",
+      "year": 2023,
+      "make": "RAM",
+      "model": "1500 Classic Crew Cab Express *HEMI*PROX ENTRY*PARK SENSE*DUAL ZN CLIM*",
+      "condition": "used",
+      "price": 39388.0,
       "price_currency": "CAD"
     },
     {
@@ -354,7 +409,7 @@
       "make": "Hyundai",
       "model": "Santa Cruz Ultimate *ACC*BLIND SPT*NAVI*SUNROOF*HTD SEATS*",
       "condition": "used",
-      "price": 39888.0,
+      "price": 37188.0,
       "price_currency": "CAD"
     },
     {
@@ -563,18 +618,18 @@
       "make": "MINI",
       "model": "3 Door Cooper C *WIRELESS CHRG*PARK SENSE*BLIND SPT",
       "condition": "used",
-      "price": 36388.0,
+      "price": 32888.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Mazda Mazda3 Sport GX",
+      "name": "2025 Mazda Mazda3 Sport GX *ALLOY WHEELS*WIRELESS DEVICE CON*HTD STS*",
       "vin": "JM1BPAKM4S1751478",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/f955c10e76f5.html",
       "year": 2025,
       "make": "Mazda",
-      "model": "Mazda3",
+      "model": "Mazda3 Sport GX *ALLOY WHEELS*WIRELESS DEVICE CON*HTD STS*",
       "condition": "used",
-      "price": 24988.0,
+      "price": 23888.0,
       "price_currency": "CAD"
     },
     {
@@ -596,7 +651,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 56888.0,
+      "price": 55888.0,
       "price_currency": "CAD"
     },
     {
@@ -607,7 +662,7 @@
       "make": "RAM",
       "model": "1500 Rebel*PANOROOF*HUD*HARMAN/KARDON*DRIVE ASSIST*",
       "condition": "used",
-      "price": 62388.0,
+      "price": 60888.0,
       "price_currency": "CAD"
     },
     {
@@ -618,7 +673,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 48888.0,
+      "price": 46888.0,
       "price_currency": "CAD"
     },
     {
@@ -633,14 +688,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Volkswagen Taos Comfortline",
+      "name": "2025 Volkswagen Taos Comfortline *LANE KEEP*BLIND SPT*HTD SEATS*",
       "vin": "3VVUC7B2XSM076116",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/a8cf43b30698.html",
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Taos",
+      "model": "Taos Comfortline *LANE KEEP*BLIND SPT*HTD SEATS*",
       "condition": "used",
-      "price": 31588.0,
+      "price": 30888.0,
       "price_currency": "CAD"
     },
     {
@@ -1518,7 +1573,7 @@
       "make": "Honda",
       "model": "CR-V Hybrid EX-L Hybrid *SUNROOF*WIRELESS CHRG*ACC*HTD SEATS*",
       "condition": "used",
-      "price": 47588.0,
+      "price": 46288.0,
       "price_currency": "CAD"
     },
     {
@@ -2855,6 +2910,17 @@
       "model": "2500 Rebel *ACC*NAVI*BLIND SPT*LANE KEEP*WIRELESS CHRG*",
       "condition": "used",
       "price": 85388.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 RAM ProMaster Cargo Van Tradesman 3500 High Roof 159\" WB*ACC*LNE ASSIST*BRK ASSIST*",
+      "vin": "3C6MRVJGXTE165489",
+      "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/76d5ee52d362.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "ProMaster Cargo Van Tradesman 3500 High Roof 159\" WB*ACC*LNE ASSIST*BRK ASSIST*",
+      "condition": "used",
+      "price": 58888.0,
       "price_currency": "CAD"
     },
     {
@@ -4398,14 +4464,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition",
+      "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition*PANO RF*ACC*",
       "vin": "3VVGR7RM8TM018381",
       "url": "https://willyml1979-dotcom.github.io/go-auto-brampton-chrysler-mirror/used/7c7e491798e8.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan",
+      "model": "Tiguan Comfortline R-Line Black Edition*PANO RF*ACC*",
       "condition": "used",
-      "price": 41888.0,
+      "price": 40688.0,
       "price_currency": "CAD"
     },
     {
